@@ -1,0 +1,7002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bulletin SYSTEM "bulletin.dtd">
+
+<bulletin>
+	<volume vnum="001">
+		<part pnum="01" month="12" year="1978">
+			<entry>
+				<title>Some Interesting Places</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Rao, Mohan</author>
+					<author>Rao, Koneri</author>
+					<author>Rajan</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="01" year="1979">
+			<entry>
+				<title>News and Notes - Point Calimere</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Ramakanth, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Black Buck in Point Calimere</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Long Checklist of 102 birds for Point Calimere</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sarangarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the Period from 08/06/79 to 31/12/79</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>First Annual Report</title>
+				<feature></feature>
+				<page>0004-0006</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="02" year="1979">
+			<entry>
+				<title>Notes from Members - Peculiar Feeding Behaviour of the Indian Roller</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Cutlett</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes from Members - The Indian Pitta</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes from Members - Breeding Activities of some Birds</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="03" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Correspondence</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Breeding Activities in Birds</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Sea Turtle Walk</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>National Park</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="04" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Silent Valley</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Rao, V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birding in Manali-Madhavaram (Madras)</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Nesting of Black-Winged Kite</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="05" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="06" year="1979">
+			<entry>
+				<title>Slide Show on 20-05-79 at Mr. S. P. Chendra's Residence</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Pelicanry Discovered</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Cutlett</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In Memoriam Kolleru Pelicanry?</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Neelakantan, K. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Extract from Prof. K. K. Neelakantan</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="07" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Top Slip</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Introducting Indian Snakes</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Rajendran, M. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Top Slip</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Cutlett</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Prawn Culture in Brackish Waters</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Menon, Dr. A. G. K.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="08" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Tigers and their Kills</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Migration Commences at Adyar Estuary</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Further Comment on Roller</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Key to the Genera and Species</title>
+				<feature></feature>
+				<page>0004-0008</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="09" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Our Trip to Anirdhi</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Joseph, Anne</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Tigers and their Kills</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Introducing Indian Snakes - 3</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author>Rajendran, Dr. M. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Tigers and their Kills</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="10" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Two Days at Kodikkarai</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Animals Seen from the Boat on Periyar Sanctuary 10-10-79 Clouy Day</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Tigers and their Kills</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Introducing Indian Snakes - The Whip Snakes</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Rajendran, Dr. M. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="11" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Tigers and their Kills</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Urban Encounter</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Prabhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>With the B.N.H.S. at Kodikarai</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>``Bird Week"</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>My First Expedition into the Sea off the Madras Harbour</title>
+				<feature></feature>
+				<page>0006-0007</page>
+				<allauthors>
+					<author>Bonhoure, Albert</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>``Bird Week"</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birds Seen at Periyar Sanctuary (Kerala) from October 7th to 10th - Weather - Clear to Cloudy with Occassional Showers and Mist Compiled</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors>
+					<author>Rao, R. V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Rare Raptor?</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors>
+					<author>Cutlett</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="13" month="12" year="1979">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Visit to Manakavala</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Raghuraman, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sanderlings at Adyar Estuary</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>of the Avocets</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Some New Additions to our Guindy Bird-List</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Day we Saw Nilgiri Tahr</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Rao, R. V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News of Interest - The Common Grey Hornbill in the GIR Forest</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Grubh, Robert</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Discovery of Few Rare Snakes from Tamil Nadu</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Rajendran, M. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="002">
+		<part pnum="01" month="01" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Grooming - Crow Style</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Darshan of Flamingoes</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ramesh, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Forest Wagtails (Motacilla Indica) in Madras on New Year Day</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Great Indian Hornbill (Buceros Bicornis)</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Rao, R. V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Gingee</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Kalyani Dam (Chittor District-A.P.)</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Rao, R. V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Role of the Indian Boas in our Economy</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Rajendran, M. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Turtle Walk</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Bonhoure, R. Albert</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>First Annual Report of the Madras Naturalists' Society</title>
+				<feature></feature>
+				<page>0008-0010</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Introducing Indian Snakes/Cerberus Rhynchops (The Dog Face Water Snake)</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Bharatpur Sanctuary</title>
+				<feature></feature>
+				<page>0004-0008</page>
+				<allauthors>
+					<author>Krishnaswamy, R. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Flamingoes</title>
+				<feature></feature>
+				<page>0009-0011</page>
+				<allauthors>
+					<author>Hussainy, R. S. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Karnala Bird Sanctuary</title>
+				<feature></feature>
+				<page>0011-0012</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Report on the Survey of Elephants in Tamil Nadu</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author>Krishnamurthy, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Rosy Pastor (Sturnus Roseus) at Point Calimer</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Behaviour of the Yellow-Wattled Lapwing</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1980">
+			<entry>
+				<title>Circulation for Members</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Project Pelican</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Neelakantan, K. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Survey to Decide the Status of Indian Tortoises and Terrapins</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Nature: Not Red in Tooth and Claw</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Purple Sunbird - Does it Occur in Madras?</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Rufous Short-Toed Larks Seen at Adyar Estuary</title>
+				<feature></feature>
+				<page>0005-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Kalyani Dam</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author>Ramanathan, B.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Experiments on T.E. Growth of Echis Carinatus, The Saw-Scaled Viper (S. Order Opliedia under Reptilia)</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Devaraj, Aruna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Afforestation and Tree Plantation</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Shanmughanathan, K.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Report on the Bird Life of Rajagiri Fort at Gingee</title>
+				<feature></feature>
+				<page>0002-0006</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Trek in Kodai Hills</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Birding in the Eastern Ghats</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author>Rao, R. V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Biligirirangans</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Raghuraman, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Puff Balls (Lycoperdon) at Adyar Estuary</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Ramanathan, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Blackcapped Kingfisher at Adyar Estuary (Halcyon Pileata)</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Trip to Ranganthittoo</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors>
+					<author>Raman, V. J.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Report on Crocodile Survey and Monitoring Trip to Sathanur, Hogenekal and Krishnagiri</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Note on the Phenomenon of Noctunal Flights of some Resident Birds at Lunglet, Mizoram, N.E. India</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors>
+					<author>Rao, K. R.</author>
+					<author>Zoramthanga, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Garganey Teals in Adyar River</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Lion-Tailed Macaque in Topslip</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Hill Mywah (Gracula Religiosa) in Madras</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Mohan, G.</author>
+					<author>Ramanathan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Some Interesting Museum Records</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>White-Spotted Fantail (Rhipidura Albogularis) and White Browed (R. Aureola) Flycatchers</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1980">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Unusual Menu</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Trip to Bharatpur Bird Sanctuary</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="003">
+		<part pnum="01" month="01" year="1981">
+			<entry>
+				<title>Newsletter Supplement - Wildlife Conservation: A Film Programme and Photographic Exhibition</title>
+				<feature></feature>
+				<page>0000b-0000c</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Point Calimere</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Wonder World of Insects Contd.</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Wonder World of Insects</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Lakshminarayana, K. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Trip to Nellapattu &#38; Pulicat Bird Sanctuaries</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+					<author>Rao, R. V. Mohan</author>
+					<author>Rangarajan, P. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Note on the Prevailing Sources of Air Pollution in some Areas at Madras</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Ramalingam, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Wonder World of Insects</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors>
+					<author>Lakshminarayana, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letter</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Special Bulletin</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Second Annual Report</title>
+				<feature></feature>
+				<page>0011-0013</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the year ending 31.12.1980</title>
+				<feature></feature>
+				<page>0014-0014</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1980</title>
+				<feature></feature>
+				<page>0015-0015</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>National Workshop on Environmental Education</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the Period from 8.6.79 to 31.12.79</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1981">
+			<entry>
+				<title>News and Notice</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Consequences of Minor Habitat Modifications near Madras</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Raghunathan, M. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Eclipse Plumage in Loten's Sunbird (Nectarinia Lotenia)</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Day in the Forest</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Raghuraman, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Land Reclamation Proves Disastrous in China</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Some Interesting Observations</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ashy Swallow-Shrike (Artamus Fuscus) on the Ground</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Black Panthers and Nilgiri Tahr</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Prabhakar, K. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notes on Crocodile (Crocodulus Palustris) Egg Collection at Sathanur</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Joseph, Anne</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birding in and around Bangalore</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Grey-Headed Myna</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Second Annual Report</title>
+				<feature></feature>
+				<page>0006-0008</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the year ending 31.12.1980</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1980</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0000a-0000a</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Mercury Pollution in Animals and Birds</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author>Ayyadurai, K.</author>
+					<author>Kamalam, N.</author>
+					<author>Rajagopal, C. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Some Additions to Madras Bird-List</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Some Additions to Madras Bird-List</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Indian Robin (S. Fulicata)</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author>Mehta, Udayan Indravadan</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Water Birds at Pulicat Lake</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Programme for Pongal Holidays Camp</title>
+				<feature></feature>
+				<page>0004-0004a</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>We Help</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1981">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Trip to Anamalais</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Vasantharajan, P. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Gingee in November 1981</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Agenda</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Programme for Pongal Holidays Camp</title>
+				<feature></feature>
+				<page>0006-0006a</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="004">
+		<part pnum="01" month="01" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Pelicans in Prospect</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Redwinged Crested Cuckoo (Clamator Coromandus)</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Visit to Chitteri</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balancesheet as on 31.12.1981</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the year ending 31.12.81</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Brief Report on the Seminar held Jointly by the Collector of Madras &#38; the Madras Naturalists Society</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>We Publish below the Speech of Dr. R.S. Pillai of the Z.S.I. Madras - Silent Valley Forest - An Assessment</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors>
+					<author>Pillai, Dr. R. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birdwatching along the Calcutta Highway from Madras to Gudur</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0000a-0000a</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Pichavaram Mangrove - Contd. from Last Page</title>
+				<feature></feature>
+				<page>0000a-0000a</page>
+				<allauthors>
+					<author>Meher-Homji, Dr. V. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Pichavaram Mangrove</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors>
+					<author>Meher-Homji, Dr. V. M.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0000a-0000a</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Marine Resources and their Futures</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors>
+					<author>Natarajan, prof. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Special News</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Birding at Tirumala Hills (Andhra Pradesh)</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Rao, R. V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mundanthurai</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Chandrasekaran, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Waiting for the Great Horned Owls</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Some more Gleaners</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Rao, R. V. Mohan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Kalakkad Connection - ``Karl"</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Ponmudi Bird Ringing Camp</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Mallapattu Bird Sanctuary</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Amaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Shikra over Secretariat</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Chandrasekar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>How Bold a Shikra is?</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sea &#38; Shore at Mandapam-Krusadi</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Discovery of Few Rare Snakes from Tamil Nadu</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Rajendran, Prof. M. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Introducing Indian Snakes - The Whip Snakes</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors>
+					<author>Rajendran, Dr. M. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Second Annual Report</title>
+				<feature></feature>
+				<page>0009-0011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the year ending 31.12.1980</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1980</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1982">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Live Indicators of Evolution - The Chewing-Lice</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author>Lakshminarayana, Dr. K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ringed Plover (Charadrius Hiaticula) at the Adyar Estuary</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sea &#38; Shore at Mandapam-Krusadi</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="005">
+		<part pnum="01" month="01" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Ariyakulam - Abode of Painted Storks</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Chandrasekaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sea &#38; Shore at Mandapam-Krusadi</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Sea &#38; Shore at Mandapam-Krusadi</title>
+				<feature></feature>
+				<page>0002-0005</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Creature in the Hills</title>
+				<feature></feature>
+				<page>0006-0007</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Barreaded Geese and others in Salem District</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Buxton, Aubrey</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Atitlan Grebe</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Rangaswami, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Sanctuary for Oceanic Birds in the Laccadive Islands &#38; Western Indian Ocean</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Menon, A. G. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Red-Winged Crested Cuckoo in Madras</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Atitlan Grebe</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author>Rangaswami, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Benevolent Gree</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author>Rao, Irde Shankar</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Birds on the Move</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Pulicat Bird Sanctuary in March</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The GIR of Gujrat</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Guindy is being Raped - An S.O.S.</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Checklist of Birds of Nellapattu Pelicanry</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Unnatural Nature</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Divakaran, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11-12" month="11-12" year="1983">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Sight Record of the Glossy Ibis (Plegadis Falcinellus) in the Vedanthangal Herony</title>
+				<feature></feature>
+				<page>0002-0005</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="99" month="05" year="1983">
+			<entry>
+				<title>Special Bulletin - News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Fourth Annual Report</title>
+				<feature></feature>
+				<page>0002-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1982</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ending 31.12.1982</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="006">
+		<part pnum="01" month="01" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the year ended 31.12.1984</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1984</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ending 31.12.1983</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1983</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Pelicans Return to Vedanthangal</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Courtship and Mating in Insects</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author>Rao, K. Ramachandra</author>
+					<author>Chandrasekhar, S. V. A.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Simpson Estate Heronry</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Crested Hawk-Eagle (Spizaetus Cirrhatus)</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Report from Sembiam</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Birding at the Kaliveli Tank</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Pelicans - A Report from Vedanthangal</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News from Simpson Estate Heronry (Sembiam)</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>An Ashy Swallow-Shrike's Unusual Nest</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Fluctuations in the Population of the Little Cormorant (Phalacrocoraxhiger) in the Simpson Estate Heronry, Sembiam</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Guruswamy, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Night Heron (Nycticorax Nycticorax) Chick: Response to Alarm</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Guruswamy, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes on Parental Care in Dabchick (Podiceps Rufficolis Capensis)</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Guruswamy, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Flower Peckers in Madras</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Threatened Animals of India</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Tikader, B. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bare Parts Colour Variation in Little Egrets Egretta of the Simpson Estate Heronry</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Guruswamy, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Programme</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10-11" month="10-11" year="1984">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>An Evening with Bush Larks</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notes on `Soaring Flight of the Little Cormorant' (Phalacrocorax Nicar)</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors>
+					<author>Guruswamy, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1984">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="007">
+		<part pnum="01-02" month="01-02" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Agenda</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the year ended 31.12.1984</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1984</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report</title>
+				<feature></feature>
+				<page>0006-0008</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09-10" month="09-10" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1985">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="99" month="01" year="1985">
+			<entry>
+				<title>Special Bulletin</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="008">
+		<part pnum="01-02" month="01-02" year="1986">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1986">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Important Notice</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice - Seventh Annual Report</title>
+				<feature></feature>
+				<page>0006-0008</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.12.1985</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1985</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1986">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1986">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06-07" month="06-07" year="1986">
+			<entry>
+				<title>Naturalist's Madras Exhibition - 5--7 June 1986</title>
+				<feature></feature>
+				<page>0001-0010</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0011-0012</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1986">
+			<entry>
+				<title>The Environmental Impact of Hydroelectric Projects</title>
+				<feature></feature>
+				<page>0000b-0000b</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09-10" month="09-10" year="1986">
+			<entry>
+				<title>Mariculture</title>
+				<feature></feature>
+				<page>0000b-0000b</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11-12" month="11-12" year="1986">
+			<entry>
+				<title>A Lecture on Wildlife and the Environment</title>
+				<feature></feature>
+				<page>0000a-0000a</page>
+				<allauthors>
+					<author>Coe, Malcolm</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="009">
+		<part pnum="01" month="01" year="1987">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02-03" month="02-03" year="1987">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Eighth Annual Report</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.12.1986</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1986</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04-05" month="04-05" year="1987">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1987">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07-12" month="07-12" year="1987">
+			<entry>
+				<title>A Presentation on Reptiles and their Rain Forest - A Case for Conservation</title>
+				<feature></feature>
+				<page>0000a-0000e</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Present an `Exhibition of Wildlife Photographs' and Film Programme at the British Council Division Library</title>
+				<feature></feature>
+				<page>0000f-0000h</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Present a Lecture on the Jersey Wildlife Preservation Trust ``The Role of Zoos in Wildlife Conservation?"</title>
+				<feature></feature>
+				<page>0000i-0000k</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="010">
+		<part pnum="01-02" month="01-02" year="1988">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1988">
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the year ended 31.12.1987</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.12.1987</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>British Council Division/Madras Naturalists' Society - Wildlife Photographic Competition and Exhibition</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04-05" month="04-05" year="1988">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06-09" month="06-09" year="1988">
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1988">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11-12" month="11-12" year="1988">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="011">
+		<part pnum="01-02" month="01-02" year="1989">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1989">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income and Expenditure Account for the period 01.01.1988 to 31.03.1989</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.03.1989</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05-06" month="05-06" year="1989">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07-09" month="07-09" year="1989">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10-12" month="10-12" year="1989">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="012">
+		<part pnum="01-02" month="01-02" year="1990">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Questionnaire</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>List of Books/Publications Available</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1990">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05-06" month="05-06" year="1990">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Questionnaire</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1990">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1990">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1990">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1990">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1990">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1990">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="99" month="12" year="1990">
+			<entry>
+				<title>Special Bulletin - Notice</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1990</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.03.1990</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="013">
+		<part pnum="01" month="01" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1991</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.03.1991</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1991">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="014">
+		<part pnum="01" month="01" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1992">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="015">
+		<part pnum="01" month="01" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1993</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.03.1993</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Programme list - Indian Birds Exhibition of Photographs and Lectures</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>K. K. Neelakantan (1923--1992)</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>About Madras Naturalists' Society</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1993">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="016">
+		<part pnum="01" month="01" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1994</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as on 31.03.1994</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1994">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letter - Seminar and Exhibition of Photographs on Nature</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Entry Form for Photographs</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="017">
+		<part pnum="01" month="01" year="1995">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02-03" month="02-03" year="1995">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1995">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1995</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as at 31.03.1995</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1995">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1995">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07-08" month="07-08" year="1995">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letter</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09-10" month="09-10" year="1995">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11-12" month="11-12" year="1995">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="018">
+		<part pnum="01-02" month="01-02" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letter</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05-06" month="05-06" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1996</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as at 31.03.1996</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1996</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as at 31.03.1996</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10-11" month="10-11" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1996">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="019">
+		<part pnum="01" month="01" year="1997">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1997">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1997">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1997">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1997">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06-07" month="06-07" year="1997">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1997</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as at 31.03.1997</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1997">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1997">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Lets make Good use of our Birding Lists</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Pittie, Aasheesh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Report on the City Consultation Workshop, 4--6 September 1997</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1997">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1997">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1997">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Talk &#38; Slide Presentation - Bird Migration and Bird Hazard to Aircraft - The Israeli Experience</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Yom-Tov, Yoram</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="020">
+		<part pnum="01" month="01" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Advertisement - Summer Course on Principles of Biodiversity Conservation and Sustainable Management</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report 1997--98</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account for the year ended 31.03.1998</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Balance Sheet as at 31.03.1998</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1998">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="021">
+		<part pnum="01" month="01" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letter - Annual Waterfowl Census - 1999</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Raghuraman, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Asian Waterfowl Census</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Advertisement - Field Study Course in Ornithology and Haritat Care and Regeneration</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letter to Add Companies</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report 1998--99</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account Balance Sheet for the year ended 31.03.1999</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Questionnaire</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Datura Spp.</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer, Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Calotropis Gigantea</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer, Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Leucas Spp.</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer, Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="1999">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Antigonon leptopus (= Corculum Leptopus)</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="022">
+		<part pnum="01" month="01" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Sida Acuta</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Asystasia Gangetica</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Olive Ridley Turtles</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Murugavel, T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Turtle Walk</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sankar, S. Jaya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Tephrosia Purpurea</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Phyllanthus Amarus</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Boerhavia Diffusa</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>MNS Trip to Ranthanbhore National Park - A Report</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>23rd Annual Report (1999--2000)</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2000</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Hibiscus Vitifolius</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Tribulus Terrestris</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Ipomoea Pes-Caprae</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2000">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Portulaca Quadrifida</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="023">
+		<part pnum="01" month="01" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Rehabilitation of a Makhna Elephant</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Thattekad Bird Sanctuary</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Oldenlandia Spp.</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Bar Headed Geese in the South</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Important Bird Areas Programme India</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Jhunjhunwala, Supriya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Cleome Viscosa</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Ranthambore National Park</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Croton Bonplandianus (C. Sparsiflorus)</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Iyer Geetha</author>
+					<author>Iyer, Sandhya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>24th Annual Report (2000--01)</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>24th Annual Report (2000--01)</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2001</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2001">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2001">
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Forest Plants of Nagarahole</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2001">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Visit to Nelapattu Bird Sanctuary</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="024">
+		<part pnum="01" month="01" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Trip to Amirdhi Forest</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Jayasankar, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Bird Survey in Periyar Tiger Reserve, kerala</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Ragahavan, V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Tiger Sighting at Nagarahole by our Member</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Ragahavan, V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Bird Survey at Wayanad Wildlife Sanctuary</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Jagadeesan, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Migration of House Sparrows from Cities</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Raghuraman, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Conservation of Pallikarani Marsh</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Visit to Ranthambore National Park</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Murugavel, T.</author>
+					<author>Jagadeesan, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>25th Annual Report (2001--02)</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Leopards at Noon</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Birding at Velachery Marshes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Ramakrishna, C.</author>
+					<author>Chandrasekar, M.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2002">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - MNS Trip to Crocodile Bank</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Subramanian, J.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="025">
+		<part pnum="01" month="01" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Time Machine Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Vultures come back slowly</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Rao, A. N. Jaganatha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Sound Judgement</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Jayasankar, S.</author>
+					<author>Murugavel, T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Full Many a Flower</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>26th Annual Report (2002--03)</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2003</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2003">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="026">
+		<part pnum="01" month="01" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - A Report on Rishi Valley Trip</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Jagadeesan, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Wildlife Census at Guindy National Park, Chennai</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Adyar Estuary - A Paradise for Bird Watching</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08-09" month="08-09" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - A Point to Ponder</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>27th Annual General Body Meeting</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report for the Financial year ending with March 31, 2004</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2004</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2004">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2004">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="027">
+		<part pnum="01-02" month="01-02" year="2005">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - A Morning at the Guindy National Park</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="2005">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The MNS Trip to Vedanthangal on 19 Feb' 2005</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Jayakumar, Geetha</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2005">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2005">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2005">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2005">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2005">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2005">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2005">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2005">
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2005</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="028">
+		<part pnum="01" month="01" year="2006">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - A Birdwatcher's Notes on a Trip to Mamandur</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Murugavel, T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Indian Laburnum</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Pride of India</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Alexandrian Laurel</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Know your Trees: Pungam</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Update on the Activities of MNS for 2005--06</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Know your Trees: Traveler's Palm</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Trip to Pulicat Lake</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Chitra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: The Indian Almond</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Raghunathan, K.</author>
+					<author>Chandrasekar, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: The Tree Jasmine</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2006">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: The Ivory Wood Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="029">
+		<part pnum="01" month="01" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Scarlet Cordia</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: The Red Wood</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Know your Trees: The White Silk Cotton Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Bhanumathi, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Copper Pod Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Photos - Nature Workshop at Gudur and Nellatur</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - MNS Trip to Kanha</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Know your Trees: Rain Tree</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Gulmohar</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Know your Trees: Portia Tree</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Sausage Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Padmanabhan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Wild Almond Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Thyagarajan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bird Race</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Know your Trees: Cannonball Tree</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Penchalakona Trip</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors>
+					<author>Chandrashekar, Ambika</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Temple Tree</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2007">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Bhanumathi, R.</author>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: African Tulip Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="030">
+		<part pnum="01" month="01" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Gopal</author>
+					<author>Thyagarajan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: Indian Coral Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Mani, Mrinalini</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Bhanumathi, R.</author>
+					<author>Jaikumar, Geetha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Know your Trees: White Gulmohar</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Update on the Activities of MNS</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Chithra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ashoka Tree</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Swamy, Mahadeswara</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Common Crow</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors>
+					<author>Chithra, V.</author>
+					<author>Santharam, V.</author>
+					<author>Sudhakar, K. V.</author>
+					<author>Ramesh, Divya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Tawny Coster</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Plain Tiger</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notice</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report 2007--2008</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year that ended 31.03.2008</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Chocolate Pansy</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Proposed Programme Calendar for the year 2008-2009</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Report on the Mamanduru Trip</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sripad</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Nature Trail at the OTA Campus</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Venkatraman, Arvind</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Birding at Pallikaranai</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Grass Yellow</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+					<author>Cornelius, George</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Rao, K. Mrutyumjaya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Common Mormon</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Emmigrant</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Salim Ali's Birds Day Celebrations programme Schedule</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2008">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Common Lime</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="031">
+		<part pnum="01" month="01" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Lemon Pansy</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="032">
+		<part pnum="02" month="02" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Common Gull</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Giant Crab Spider</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Zebra Jumper</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2009</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Lynx Spiders</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Ashy Social Spider</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Common Cross Spider</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Common Two-Tail</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Green Marsh Hawk</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2009">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Butterflies) - Ditch Jewel</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="033">
+		<part pnum="01" month="01" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Dragonflies) - Ruddy Marsh Skimmer</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Dragonflies) - Granite Ghost</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Common Invertebrates of Chennai (Dragonflies) - Ground Skimmer</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Bhanu</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0010</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2010</title>
+				<feature></feature>
+				<page>0011-0011</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Skillful Predators</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Ecdysis</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2010">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Life Cycle of the Common Lime Butterfly (Papilio Demoleus)</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="034">
+		<part pnum="01" month="01" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Plant Hoppers - Fulgoroidea</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Marbled balloon Frog</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Painted Frog</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Little Rann of Kutch and Gir Forest - Trip Report</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Madhav, Vikas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Slender Lorises Sighted on Kalakshetra Campus</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Oppili, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Butterfly Defense - Part 1</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Butterfly Defense - Part 2</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Income &#38; Expenditure Account and Balance Sheet for the year ended 31.03.2011</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Member's Report</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Jayaprakash, C. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Birding at Kodaikanal</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Ramanan, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - The Fulvous Whistling Duck Population on a Constant Rise</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Gnanaskandan, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - My Sightings during the Srivilliputhur-Rajapalyam Nilgiri Tahr Census</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Srikanth, H. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Birds, Mammals, Butterflies and Reptiles seen at Little Rann of Kutch and Gir Forest</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author>Madhav, Vikas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - ISRO Prepares first National Inventory of Wetlands</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - The Backyard Birdwatch Day</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Sudhakar, K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - The Tree of Life - The Sappy Tale of the Indian Laburnum</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+					<author>Gnanaskandan, G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Forest of the Coast</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - BNHS Launches Revised Field Guide of Salim Ali</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - National Green Tribunal First Judgement Raises Critical Questions on Accountability of EIA Consultants and Directs for Cumulative Impact of Mining at Sawantwadi, Maharashtra</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Rise of the Apes</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Balasubramaniam, Pranav</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - MNS and Madras Day 2011 - A Report</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author>Priyamanathozhi, Bhushavali Mitr</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - Trip to Nelliyampathy - A Report</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2011">
+			<entry>
+				<title>Programme Schedule</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Rare Sightings-Orange-Breasted Green Pigeon and Dark-Sided Flycatcher</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Members' Report - Bird Habitat a Uppalapadu</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes - Fulvous Whistling Ducks-A Rare Visitor in 2009-has turned into Breeding Resident in 2011</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Gnanaskandan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes - The Life Cycle of the Tawny Coster Butterfly-Some Observations</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Alaganantham, T. P.</author>
+					<author>Jaikumar, Geetha</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+</bulletin>

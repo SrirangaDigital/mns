@@ -1,0 +1,3439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bb SYSTEM "bb.dtd">
+
+<blb>
+	<volume vnum="001">
+		<part pnum="01" month="01" year="1985">
+			<entry>
+				<title>Bears</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Environmental Hazards to Human Health</title>
+				<feature></feature>
+				<page>0007-0009</page>
+				<allauthors>
+					<author>Anantaraman, M., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Silent Valley in Retrospect</title>
+				<feature></feature>
+				<page>0010-0014</page>
+				<allauthors>
+					<author>Pillai, R. S., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Uropeltis phipsoni-Survivor in a Changed Environment</title>
+				<feature></feature>
+				<page>0015-0019</page>
+				<allauthors>
+					<author>Rajendran, M. V., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Chemicals and the Environment</title>
+				<feature></feature>
+				<page>0020-0023</page>
+				<allauthors>
+					<author>Krishnamurthi, C. R., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Collection and Preservation of Insects</title>
+				<feature></feature>
+				<page>0024-0026</page>
+				<allauthors>
+					<author>Rao, K. Ramachandra</author>
+					<author>Chandrasekar, S. V. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>New Records:Ashy Minivet and Eyebrowed Thrush</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1985">
+			<entry>
+				<title>Mauritius-The Land of the Last Fews</title>
+				<feature></feature>
+				<page>0003-0008</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>On a Tiger Hunt in Arunachal</title>
+				<feature></feature>
+				<page>0009-0011</page>
+				<allauthors>
+					<author>Pillai, R. S., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Dabchick's Family Life</title>
+				<feature></feature>
+				<page>0012-0019</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Langurs of Mundanthurai</title>
+				<feature></feature>
+				<page>0020-0026</page>
+				<allauthors>
+					<author>Chellam, Ravi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Collection of tree specimens</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author>Parthasarathy, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Adyar Estuary</title>
+				<feature></feature>
+				<page>0029-0033</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0034-0037</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0038-0039</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1985">
+			<entry>
+				<title>Nilgiri Langur in Mundanthurai Sanctuary</title>
+				<feature></feature>
+				<page>0003-0013</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Searching for the Spotted Creeper</title>
+				<feature></feature>
+				<page>0014-0017</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Intelligence of Animals</title>
+				<feature></feature>
+				<page>0018-0020</page>
+				<allauthors>
+					<author>Ramachandran, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Musth in Elephants-A New Look</title>
+				<feature></feature>
+				<page>0021-0025</page>
+				<allauthors>
+					<author>Rao, A. N. Jagannatha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0026-0030</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0031-0031</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="002">
+		<part pnum="01" month="01" year="1986">
+			<entry>
+				<title>Not Either-Or but something of both</title>
+				<feature></feature>
+				<page>0003-0012</page>
+				<allauthors>
+					<author>Vijayaraghavan, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Viability of Kadamparai Questioned (Courtesy: Indian Express)</title>
+				<feature></feature>
+				<page>0012-0013</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Guindy National Park: Its History and Physiogeograpy</title>
+				<feature></feature>
+				<page>0014-0021</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birds of the Guindy National Park</title>
+				<feature></feature>
+				<page>0022-0026</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Hazards and safety precautions in field exploration-Some tips</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors>
+					<author>Lakshminarayana, K. V., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters-The Ashy minivet</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes: (1) Face to Face with a wild Buffalo</title>
+				<feature></feature>
+				<page>0031-0033</page>
+				<allauthors>
+					<author>Vasanth, M., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes: (2) Some Observations on the aerial display of Indian Skylark</title>
+				<feature></feature>
+				<page>0033-0033</page>
+				<allauthors>
+					<author>Thyagarajan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes: (3) Tailorbirds nesting in a well</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1986">
+			<entry>
+				<title>A note on the role of fire in Wildlife Management in India</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author>Rodgers, W. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Census of Animals in Anamalai Wildlife Sanctuary, Tamilnadu</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors>
+					<author>Raghunathan, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Nature at your door step: Reptiles in the House</title>
+				<feature></feature>
+				<page>0013-0014</page>
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Helminthic infection in Blackbuck</title>
+				<feature></feature>
+				<page>0015-0016</page>
+				<allauthors>
+					<author>Sathyanarayana, M. C.</author>
+					<author>Balu, G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Observations on Breeding of Coots in Coimbatore</title>
+				<feature></feature>
+				<page>0017-0019</page>
+				<allauthors>
+					<author>Sivaprasad, P. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Studies on Leafhoppers of Agricultural Importance from Madras</title>
+				<feature></feature>
+				<page>0020-0024</page>
+				<allauthors>
+					<author>Rao, K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Edurubata-A home of Painted Storks</title>
+				<feature></feature>
+				<page>0025-0026</page>
+				<allauthors>
+					<author>Ramakrishna, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0027-0027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0028-0032</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1986">
+			<entry>
+				<title>Predator response in Blackbuck (Antelope cervicapra)</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Save the Sultanpur Bird Sanctuary</title>
+				<feature></feature>
+				<page>0008-0012</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Crocodile</title>
+				<feature></feature>
+				<page>0013-0017</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birdwatching in Port Blair(S. Andaman Island) and Surrounding Areas</title>
+				<feature></feature>
+				<page>0018-0029</page>
+				<allauthors>
+					<author>Pittie, Aasheesh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0031-0037</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1986">
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Puttupet: A Sacred Termite-Mound Protects a Forest</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author>Meher-Homji, V. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Encounter with a Royal Tusker in Nagarhole</title>
+				<feature></feature>
+				<page>0007-0011</page>
+				<allauthors>
+					<author>Perumal, T. N. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Elephantine Encounter</title>
+				<feature></feature>
+				<page>0012-0013</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>How to find and observe Reptiles</title>
+				<feature></feature>
+				<page>0014-0015</page>
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Some Notes on Feeding, Displays and Nesting of the Indian Moorhen</title>
+				<feature></feature>
+				<page>0016-0021</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0022-0025</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0026-0027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="003">
+		<part pnum="01" month="01" year="1987">
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Professor M. Anantaraman-A Tribute (1914-1987)</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>Ananthakrishnan, T. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Frogleg Exports-Inviting an Ecological Disaster?</title>
+				<feature></feature>
+				<page>0005-0011</page>
+				<allauthors>
+					<author>Pillai, R. S., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Butterfly Migration in South India</title>
+				<feature></feature>
+				<page>0012-0013</page>
+				<allauthors>
+					<author>Larsen, Torben B., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Floristic Speciality of Tropical Forests</title>
+				<feature></feature>
+				<page>0014-0018</page>
+				<allauthors>
+					<author>Parthasarathy, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Study of Nature in Schools</title>
+				<feature></feature>
+				<page>0019-0021</page>
+				<allauthors>
+					<author>Davidar, E. R. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0022-0028</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0029-0029</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1987">
+			<entry>
+				<title>Indian Botanic Gardens and Plant Conservation</title>
+				<feature></feature>
+				<page>0003-0012</page>
+				<allauthors>
+					<author>Birkinshaw, C. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Hunting Dogs and the Deer Population at the Guindy National Park</title>
+				<feature></feature>
+				<page>0013-0015</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birdwatching in the Nilgiris District, Tamil Nadu (with Brief Notes on the Altitudinal distribution of a few Species of Birds)</title>
+				<feature></feature>
+				<page>0016-0022</page>
+				<allauthors>
+					<author>Pittie, Aasheesh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0023-0032</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0033-0033</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0034-0038</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03" year="1987">
+			<entry>
+				<title>Two important Wetlands near Pondicherry</title>
+				<feature></feature>
+				<page>0003-0011</page>
+				<allauthors>
+					<author>Perennou, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Let the Fishes live in Cooum</title>
+				<feature></feature>
+				<page>0012-0018</page>
+				<allauthors>
+					<author>Azariah, Jayapaul</author>
+					<author>Azariah, Hilda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Cooum harbours no oxygen</title>
+				<feature></feature>
+				<page>0019-0019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The Live indicators of Evolution-The Chewing Lice</title>
+				<feature></feature>
+				<page>0020-0024</page>
+				<allauthors>
+					<author>Lakshminarayana, K. V., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Threat to the Annamalai Wildlife Sanctuary</title>
+				<feature></feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author>Balan, J. Thomas M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:A trip to Gangothri and Yamunothri</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors>
+					<author>Rajan, V. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:The Electric chair for the Wildlife in Periyar</title>
+				<feature></feature>
+				<page>0029-0029</page>
+				<allauthors>
+					<author>Thomas, A. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Mongoose in a Coastal Habitat</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Brown Booby in Kachchh Coast</title>
+				<feature></feature>
+				<page>0031-0031</page>
+				<allauthors>
+					<author>Varu, S. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Growth and Development of Myna</title>
+				<feature></feature>
+				<page>0032-0032</page>
+				<allauthors>
+					<author>Manohar, B. Ram</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0033-0033</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="004">
+		<part pnum="01" month="01" year="1988">
+			<entry>
+				<title>On Setting Priorities for the Conservation Effort</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors>
+					<author>Gadgil, Madhav, Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Role of Birds in Agriculture and Forestry</title>
+				<feature></feature>
+				<page>0008-0013</page>
+				<allauthors>
+					<author>Ali, Salim, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Importance of Wildlife Parasitic Diseases</title>
+				<feature></feature>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Satyanarayana, M. C., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Some Observations on the Hoolock Gibbons</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors>
+					<author>Rao, K. R., Dr.</author>
+					<author>Lahiri, A. R., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Some Observations on the Nesting of the Streaked Fantail Warbler</title>
+				<feature></feature>
+				<page>0021-0027</page>
+				<allauthors>
+					<author>Ganesh, T.</author>
+					<author>Kanniah, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0028-0032</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1988">
+			<entry>
+				<title>The Pichavaram Mangrove</title>
+				<feature></feature>
+				<page>0003-0014</page>
+				<allauthors>
+					<author>Homiji, V. M. Meher, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>How to go about a Waterfowl Count</title>
+				<feature></feature>
+				<page>0015-0021</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+					<author>Perennou, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Breeding Pattern of Night Heron</title>
+				<feature></feature>
+				<page>0022-0025</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Indian Wild Dog</title>
+				<feature></feature>
+				<page>0026-0029</page>
+				<allauthors>
+					<author>Pandey, R. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0032-0033</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1988">
+			<entry>
+				<title>The Great Indian Bustard and Lesser Florican in Tamil Nadu</title>
+				<feature></feature>
+				<page>0003-0008</page>
+				<allauthors>
+					<author>Rahmani, R. Asad</author>
+					<author>Manakadan, Ranji</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Further notes on the Behaviour of the Indian Moorhen</title>
+				<feature></feature>
+				<page>0009-0015</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Snakes We should Fear in India</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Econews</title>
+				<feature></feature>
+				<page>0024-0030</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1988">
+			<entry>
+				<title>A Decade of Madras Naturalists' Society</title>
+				<feature></feature>
+				<page>0003-0008</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>From the Mosquitoe's Point of View</title>
+				<feature></feature>
+				<page>0009-0013</page>
+				<allauthors>
+					<author>Mani, M. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Seagrass Ecosystem</title>
+				<feature></feature>
+				<page>0014-0023</page>
+				<allauthors>
+					<author>Parthasarathy, N., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Banded Racer (Coluber fasciolatus)</title>
+				<feature></feature>
+				<page>0024-0026</page>
+				<allauthors>
+					<author>Rajendran, M. V., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="005">
+		<part pnum="01-02" month="01" year="1989">
+			<entry>
+				<title>Cervus Unicolor</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birding in Digboi</title>
+				<feature></feature>
+				<page>0008-0018</page>
+				<allauthors>
+					<author>Kumar, R. Govind</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Preserving Village Temple Forests in Tamil Nadu</title>
+				<feature></feature>
+				<page>0019-0022</page>
+				<allauthors>
+					<author>Balasubramanian, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Marine Biologist in the Andaman and Nicobar Seas</title>
+				<feature></feature>
+				<page>0023-0027</page>
+				<allauthors>
+					<author>Daniel, A., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0028-0030</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1989">
+			<entry>
+				<title>Environment</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors>
+					<author>Mani, M.S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Lizards</title>
+				<feature></feature>
+				<page>0006-0014</page>
+				<allauthors>
+					<author>Lakshminarayana, K. V.</author>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Marine Biologist in the Andaman and Nicobar Seas</title>
+				<feature></feature>
+				<page>0015-0020</page>
+				<allauthors>
+					<author>Daniel, A., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birdwatching in Thekkady</title>
+				<feature></feature>
+				<page>0021-0026</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0027-0030</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0031-0032</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1989">
+			<entry>
+				<title>Waterfowl Surveys Along The Coromandel Cost</title>
+				<feature></feature>
+				<page>0003-0012</page>
+				<allauthors>
+					<author>Perennou, C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Finders are not always keepers</title>
+				<feature></feature>
+				<page>0013-0015</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Branching Palm (Hyphaene dichotoma)</title>
+				<feature></feature>
+				<page>0016-0018</page>
+				<allauthors>
+					<author>Rajasekaran, K.</author>
+					<author>Raja, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Binoculars for the Naturalist</title>
+				<feature></feature>
+				<page>0019-0026</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+					<author>Rajasekar, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="006">
+		<part pnum="01" month="01" year="1990">
+			<entry>
+				<title>Protean behaviour or the biology of unpredictability</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Asian Waterfowl Counts 1990-A Report</title>
+				<feature></feature>
+				<page>0007-0011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>The sea turtle and the golden egg</title>
+				<feature></feature>
+				<page>0012-0014</page>
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Global Warming-A Climatic Catastrophe</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author>Suryanarayanan, T. S., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0019-0021</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Sight record of the hobby(Falco Subbuteo) near Pondicherry</title>
+				<feature></feature>
+				<page>0021-0021</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0022-0023</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1990">
+			<entry>
+				<title>The International Decade for Natural Disaster Reduction</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author>Murti, C. R. Krishna</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Crop Raiding Elephants of Andhra Pradesh</title>
+				<feature></feature>
+				<page>0007-0009</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Ashy Minivet</title>
+				<feature></feature>
+				<page>0010-0011</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes on Nesting Magpie-Robins</title>
+				<feature></feature>
+				<page>0012-0014</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Parturition in Feral Rhesus-A Case Report</title>
+				<feature></feature>
+				<page>0015-0017</page>
+				<allauthors>
+					<author>Manohar, B. Ram</author>
+					<author>Lobo, A.</author>
+					<author>Mathur, Reena</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0018-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Blackbuck, Vol. 1-5, Author Index</title>
+				<feature></feature>
+				<page>0021-0027</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1990">
+			<entry>
+				<title>The Whitebreasted waterhen and the Moorhen-A study in contrast</title>
+				<feature></feature>
+				<page>0003-0006</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Twelve hours at a Waterhole</title>
+				<feature></feature>
+				<page>0007-0011</page>
+				<allauthors>
+					<author>Rajasekhar, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Fort at Gingee</title>
+				<feature></feature>
+				<page>0012-0015</page>
+				<allauthors>
+					<author>Raghavan, V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Pooyamkutty-Yet another Silent valley</title>
+				<feature></feature>
+				<page>0016-0017</page>
+				<allauthors>
+					<author>Sankar, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0018-0019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Letters</title>
+				<feature></feature>
+				<page>0020-0023</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1990">
+			<entry>
+				<title>Is there a good season and time for sampling Tropical forest birds?</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors>
+					<author>Daniels, R. J. Ranjit</author>
+					<author>Hegde, Malati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Adder's Tongue Ferns-Enigmatic living Fossils?</title>
+				<feature></feature>
+				<page>0008-0014</page>
+				<allauthors>
+					<author>Jeyasingh, D. E. P., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0014-0014</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Chembarapakkam-A Birder's Paradise</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author>Thyagarajan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0019-0023</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="007">
+		<part pnum="01" month="01" year="1991">
+			<entry>
+				<title>The Birdlife of Kadalundi Estuary</title>
+				<feature></feature>
+				<page>0003-0011</page>
+				<allauthors>
+					<author>Uthaman, P. K.</author>
+					<author>Namassivayam, L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Asian Waterfowl Counts-1991</title>
+				<feature></feature>
+				<page>0012-0019</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes-The Rufous Woodpecker at its nest</title>
+				<feature></feature>
+				<page>0020-0022</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters-Birds feeding on the Golden Oleander Fruit</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1991">
+			<entry>
+				<title>A field key to the identification of anurans of Western Ghats</title>
+				<feature></feature>
+				<page>0030-0032</page>
+				<allauthors>
+					<author>Daniels, R. J. Ranjit, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Black-Crowned Night Heron</title>
+				<feature></feature>
+				<page>0033-0039</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Cannibalism</title>
+				<feature></feature>
+				<page>0040-0041</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Trekking in the Srivilliputhur and Mundanthurai Forests</title>
+				<feature></feature>
+				<page>0042-0046</page>
+				<allauthors>
+					<author>Chandrasekharan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes-The Indian Tree shrew (Anathana Ellioti) In Chitteri</title>
+				<feature></feature>
+				<page>0047-0047</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters-Koels Feeding on the Yellow Oleander</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters-Great Hornbill Study Commences in South India</title>
+				<feature></feature>
+				<page>0049-0049</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:Elephant Poaching in the Western Ghats</title>
+				<feature></feature>
+				<page>0050-0050</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1991">
+			<entry>
+				<title>Ants as biological indicators of environmental changes</title>
+				<feature></feature>
+				<page>0051-0056</page>
+				<allauthors>
+					<author>Daniels, R. J. Ranjit, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Little Cormorant at the Simpson Estate</title>
+				<feature></feature>
+				<page>0057-0061</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Social Grooming in Animals</title>
+				<feature></feature>
+				<page>0062-0067</page>
+				<allauthors>
+					<author>Sridhar, T. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Butterflies of Loyola College Campus</title>
+				<feature></feature>
+				<page>0068-0072</page>
+				<allauthors>
+					<author>Rajasekhar, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes-Checklist of the Birds of Loyola College Campus, Madras</title>
+				<feature></feature>
+				<page>0073-0075</page>
+				<allauthors>
+					<author>Rajasekhar, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes-Butterflies of Amirthi reserve forest</title>
+				<feature></feature>
+				<page>0075-0076</page>
+				<allauthors>
+					<author>Karthikeyan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes-Sighting of the Small Indian Civet at Guindy National Park</title>
+				<feature></feature>
+				<page>0077-0078</page>
+				<allauthors>
+					<author>Rajasekhar, B.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="008">
+		<part pnum="01" month="01" year="1992">
+			<entry>
+				<title>On the flowering of Neelakurinji and a proposal for its conservation</title>
+				<feature></feature>
+				<page>0003-0010</page>
+				<allauthors>
+					<author>Uthaman, P. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Summer Leaves</title>
+				<feature></feature>
+				<page>0011-0013</page>
+				<allauthors>
+					<author>Menon, R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Impact of urbanisation and human pressures on the scrub-jungle birds around Madras</title>
+				<feature></feature>
+				<page>0014-0019</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Strange nest-fellows</title>
+				<feature></feature>
+				<page>0020-0021</page>
+				<allauthors>
+					<author>Thiagarajan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Albinism in the black crowned night heron</title>
+				<feature></feature>
+				<page>0021-0022</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Cannibalism in the black-crowned night heron</title>
+				<feature></feature>
+				<page>0022-0022</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:A short note on the Small Indian Civet in Guindy</title>
+				<feature></feature>
+				<page>0023-0023</page>
+				<allauthors>
+					<author>Sridhar, T. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Cleaning of Nesting Material by Brown Dipper (Cinclus pallasi)</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Saxena, Rajiv</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:A. Jacana Sanctuary under threat</title>
+				<feature></feature>
+				<page>0025-0026</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1992">
+			<entry>
+				<title>Notes on Rare and Endangered plant species from Susala Island in Mulshi reservoir, Pune District</title>
+				<feature></feature>
+				<page>0031-0037</page>
+				<allauthors>
+					<author>Vartak, V. D.</author>
+					<author>Suryanarayana, M. C.</author>
+					<author>Phatak, S. Manik</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Observations on the Vegetation of Guindy National Park I</title>
+				<feature></feature>
+				<page>0038-0042</page>
+				<allauthors>
+					<author>Rajasekhar, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Asian Water fowl Counts, 1992</title>
+				<feature></feature>
+				<page>0043-0047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:An Endangered Wetland</title>
+				<feature></feature>
+				<page>0048-0050</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:A Pale Mongoose</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:A New Woodpecker Species for the GNP</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author>Dutt, Sugato</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:Indian Tree Shrew</title>
+				<feature></feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Pittie, Aasheesh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>M N S Annual Report</title>
+				<feature></feature>
+				<page>0053-0059</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1992">
+			<entry>
+				<title>The Bandas and their impact on the Population of Vultures in Guntur and Prakasam Districts</title>
+				<feature></feature>
+				<page>0060-0063</page>
+				<allauthors>
+					<author>Rao, Koka Mrutyumjaya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Policy Changes for Benefiting Biodiversity Conservation with Particular Reference to National Forest Policy of India</title>
+				<feature></feature>
+				<page>0064-0068</page>
+				<allauthors>
+					<author>Sunder, S. Shyam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Some Beautiful Freshwater Fishes of South India</title>
+				<feature></feature>
+				<page>0069-0076</page>
+				<allauthors>
+					<author>Daniels, R. J. Ranjit</author>
+					<author>Daniels, A. E. Dulip</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Encounter on the Anakayam River</title>
+				<feature></feature>
+				<page>0077-0079</page>
+				<allauthors>
+					<author>Kannan, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mangroves:An Endangered Ecosystem</title>
+				<feature></feature>
+				<page>0080-0084</page>
+				<allauthors>
+					<author>Deshmukh, V. Sanjay</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Nesting by Indian Whitebacked Vulture</title>
+				<feature></feature>
+				<page>0085-0085</page>
+				<allauthors>
+					<author>Bhat, D. Sridhar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Birds of the Indira Sagar Area (Madhya Pradesh)</title>
+				<feature></feature>
+				<page>0086-0089</page>
+				<allauthors>
+					<author>Rathinasabapathy, B.</author>
+					<author>Kalaiarasan, V.</author>
+					<author>Aengals, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Butterflies of Shevaroys</title>
+				<feature></feature>
+				<page>0089-0093</page>
+				<allauthors>
+					<author>Karthikeyan, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1992">
+			<entry>
+				<title>Editorial</title>
+				<feature></feature>
+				<page>0094-0095</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>K.K.N. - A Fruitful Life</title>
+				<feature></feature>
+				<page>0096-0101</page>
+				<allauthors>
+					<author>Uthaman, P. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Diary of a Naturalist</title>
+				<feature></feature>
+				<page>0102-0108</page>
+				<allauthors>
+					<author>Neelakantan, K. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Sri Venkateswara National Park</title>
+				<feature></feature>
+				<page>0109-0113</page>
+				<allauthors>
+					<author>Mohan, Anand</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Painted Grasshopper</title>
+				<feature></feature>
+				<page>0114-0119</page>
+				<allauthors>
+					<author>Krishnaswamy, Anand</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:Management of Biodiversity in the "Ayyan Koil" Forests</title>
+				<feature></feature>
+				<page>0120-0121</page>
+				<allauthors>
+					<author>Balasubramanian, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News:Poisonous Birds-The Pitohuis of New Guinea</title>
+				<feature></feature>
+				<page>0122-0122</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="009">
+		<part pnum="01" month="01" year="1993">
+			<entry>
+				<title>Birds of the Wayanad Wildlife Sanctuary</title>
+				<feature></feature>
+				<page>0001-0017</page>
+				<allauthors>
+					<author>Uthaman, P. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Status of Blackbuck (Antilope Cervicapra) at the Guindy National Park</title>
+				<feature></feature>
+				<page>0018-0021</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:The M.N.S. Camp at Yelagiri</title>
+				<feature></feature>
+				<page>0022-0024</page>
+				<allauthors>
+					<author>Raghavan, V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Tolerance of Disturbance in Shoveller and Little Grebe</title>
+				<feature></feature>
+				<page>0025-0025</page>
+				<allauthors>
+					<author>Saxena, Rajiv</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:Overexploitation of Snails</title>
+				<feature></feature>
+				<page>0026-0026</page>
+				<allauthors>
+					<author>Rao, K. Mrutyumjaya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:Sighting of Whitenecked Storks</title>
+				<feature></feature>
+				<page>0026-0027</page>
+				<allauthors>
+					<author>Doraiappah, M. Anand</author>
+					<author>Williams, A. Christy</author>
+					<author>Kumar, K. Ramesh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors>
+					<author>Ananthanarayanan, Raman</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1993">
+			<entry>
+				<title>Ideal Zoo Management:Graham Law</title>
+				<feature></feature>
+				<page>0029-0038</page>
+				<allauthors>
+					<author>Daniel, Mahesh Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Of Porcupines and their Quills</title>
+				<feature></feature>
+				<page>0039-0043</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Aredu Pelicanry-A Factual Rejoinder</title>
+				<feature></feature>
+				<page>0044-0046</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:A Sight Record of Frigate Bird in Madras</title>
+				<feature></feature>
+				<page>0047-0047</page>
+				<allauthors>
+					<author>Raghavan, V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>M N S : Annual Report</title>
+				<feature></feature>
+				<page>0048-0054</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1993">
+			<entry>
+				<title>Workshop on the Ecology, Conservation and Management of the Guindy National Park</title>
+				<feature></feature>
+				<page>0057-0063</page>
+				<allauthors>
+					<author>Raman, T. R. Shankar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Day(s) of the Jackal</title>
+				<feature></feature>
+				<page>0064-0068</page>
+				<allauthors>
+					<author>Rajasekhar, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:The Aredu Pelicanry</title>
+				<feature></feature>
+				<page>0069-0071</page>
+				<allauthors>
+					<author>Uthaman, P. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Pathetic Plight of the Grey (Spotbilled) Pelican</title>
+				<feature></feature>
+				<page>0072-0080</page>
+				<allauthors>
+					<author>Neelakantan, K. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Elephant Vocalizations</title>
+				<feature></feature>
+				<page>0081-0082</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Butterflies of Pondicherry University Campus</title>
+				<feature></feature>
+				<page>0082-0085</page>
+				<allauthors>
+					<author>Athreya R. Vidya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0085-0085</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0086-0087</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Errata</title>
+				<feature></feature>
+				<page>0088-0088</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="010">
+		<part pnum="01" month="01" year="1994">
+			<entry>
+				<title>Answering the call of the Hoolock Gibbon</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author>Sridhar, T. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mistletoes of Mudumalai Sanctuary</title>
+				<feature></feature>
+				<page>0009-0015</page>
+				<allauthors>
+					<author>Dattaraja, H. S.</author>
+					<author>Suresh, H. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Protected Areas of Tamil Nadu</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Butterflies of Kolli Hills</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Karthikeyan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Bare Parts colouration of Wetland Birds</title>
+				<feature></feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Wild Cattle of Madhav National Park</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author>Saxena, Rajiv</author>
+					<author>Srivastava, P.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1994">
+			<entry>
+				<title>Obituary-Sri V. J. Rajan</title>
+				<feature></feature>
+				<page>0029-0031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>On Jim Corbett's Trail</title>
+				<feature></feature>
+				<page>0032-0041</page>
+				<allauthors>
+					<author>Johnsingh, A. J. T.</author>
+					<author>Rawat, G. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>'Hot Spots' of Plant Biodiversity in India</title>
+				<feature></feature>
+				<page>0042-0046</page>
+				<allauthors>
+					<author>Nayar, M. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>1993 Waterfowl Census</title>
+				<feature></feature>
+				<page>0047-0049</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Birding Around Bombay-Some Interesting Observations</title>
+				<feature></feature>
+				<page>0050-0052</page>
+				<allauthors>
+					<author>Chandrasekharan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:A Birdwatching trip in the Dusty South</title>
+				<feature></feature>
+				<page>0053-0055</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Annual Report</title>
+				<feature></feature>
+				<page>0056-0058</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Statement of Accounts</title>
+				<feature></feature>
+				<page>0059-0060</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1994">
+			<entry>
+				<title>A List of Ants Collected from the Uttara Kannada District, Karnataka (India)</title>
+				<feature></feature>
+				<page>0061-0070</page>
+				<allauthors>
+					<author>Daniels, R. J. Ranjit</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Sambhar Story</title>
+				<feature></feature>
+				<page>0071-0074</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Wetland Birds:Year round Breeding in the Simpson Estate, Sembiam</title>
+				<feature></feature>
+				<page>0075-0077</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Jambughoda Wildlife Sanctuary, Gujarat-A little known Protected Area</title>
+				<feature></feature>
+				<page>0078-0082</page>
+				<allauthors>
+					<author>Pandya, M. Tvisha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Approaches to Inventorying Biodiversity</title>
+				<feature></feature>
+				<page>0083-0090</page>
+				<allauthors>
+					<author>Daniels, R. J. Ranjit</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0091-0091</page>
+				<allauthors>
+					<author>Ananthanarayanan, Raman</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Author Index (Volumes 6-10)</title>
+				<feature></feature>
+				<page>0092-0100</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="011">
+		<part pnum="01" month="01" year="1995">
+			<entry>
+				<title>Conservation of Environment: Role of NGOs.</title>
+				<feature></feature>
+				<page>0001-0008</page>
+				<allauthors>
+					<author>Silas, E. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yellowthroated bulbul (Pycnonotus xantholaemus) in Gingee</title>
+				<feature></feature>
+				<page>0009-0011</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Checklist of words for survival in the jungles of South India</title>
+				<feature></feature>
+				<page>0012-0016</page>
+				<allauthors>
+					<author>Jalendran, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Waterfowl Census 1994</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Witches' Broom on Pirandai (Cissus quadrangularis)</title>
+				<feature></feature>
+				<page>0021-0022</page>
+				<allauthors>
+					<author>Ananthanarayanan, Raman</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Stray Observations on a family of Dabchicks</title>
+				<feature></feature>
+				<page>0022-0023</page>
+				<allauthors>
+					<author>Thyagarajan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:A Frogmouth "Darshan"</title>
+				<feature></feature>
+				<page>0023-0027</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:A Place for Nature Trek Near Madras</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author>Ramachandran, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1995">
+			<entry>
+				<title>Phytosociology of Guindy National Park</title>
+				<feature></feature>
+				<page>0029-0040</page>
+				<allauthors>
+					<author>Rajarathinam, R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Survey of Migratory birds at Dativare</title>
+				<feature></feature>
+				<page>0041-0052</page>
+				<allauthors>
+					<author>Chandrasekharan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:The Dancing Deer-Sangai</title>
+				<feature></feature>
+				<page>0053-0055</page>
+				<allauthors>
+					<author>Bhargava, Promod</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Feeding behaviour of the Shikra</title>
+				<feature></feature>
+				<page>0055-0056</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1995">
+			<entry>
+				<title>The Parambikulam Wild Life Sanctuary</title>
+				<feature></feature>
+				<page>0057-0067</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Sacred Groves and their Restoration</title>
+				<feature></feature>
+				<page>0068-0078</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Sweet Toothed Gecko</title>
+				<feature></feature>
+				<page>0079-0081</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Seismic Messages</title>
+				<feature></feature>
+				<page>0081-0081</page>
+				<allauthors>
+					<author>Nobbe, George</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Annual Report 1994-95</title>
+				<feature></feature>
+				<page>0082-0086</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1995">
+			<entry>
+				<title>Birdwatching in the South Andamans (Part II)</title>
+				<feature></feature>
+				<page>0087-0097</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Survey of the Myriapods and Arachinds on the campus of Madras Christian College, Tambaram</title>
+				<feature></feature>
+				<page>0098-0112</page>
+				<allauthors>
+					<author>Pureswaran, S. Deepa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Obituary - Gerald Durrell</title>
+				<feature></feature>
+				<page>0113-0113</page>
+				<allauthors>
+					<author>Simmons, Nancy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Jaguar (Panthera onca)</title>
+				<feature></feature>
+				<page>0114-0114</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="012">
+		<part pnum="01" month="01" year="1996">
+			<entry>
+				<title>The Great Horned Owl at Nanmangalam</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors>
+					<author>Ramanan, P.</author>
+					<author>Raghavan, V. S.</author>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Nanmangalam Reserve Forest</title>
+				<feature></feature>
+				<page>0006-0022</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+					<author>Ramanan, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Waterfowl Census - 1996</title>
+				<feature></feature>
+				<page>0023-0026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:New Record for Vedanthangal</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author>Chandrasekharan, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1996">
+			<entry>
+				<title>Obituary - M. Krishnan (1912-1996)</title>
+				<feature></feature>
+				<page>0029-0035</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>M. Krishnan - Half a Century of Relationship</title>
+				<feature></feature>
+				<page>0036-0039</page>
+				<allauthors>
+					<author>Ghorpade, M. Y.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>M. Krishnan - A Tribute</title>
+				<feature></feature>
+				<page>0040-0042</page>
+				<allauthors>
+					<author>Krishnamurthy, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Great Guru and a Friend - M. Krishnan</title>
+				<feature></feature>
+				<page>0043-0049</page>
+				<allauthors>
+					<author>Rao, A. N. Jagannatha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>M. Krishnan - As I Knew Him</title>
+				<feature></feature>
+				<page>0050-0055</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Shri M. Krishnan - A Tribute</title>
+				<feature></feature>
+				<page>0056-0059</page>
+				<allauthors>
+					<author>Badrinath, Tulsi</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1996">
+			<entry>
+				<title>A Checklist of the Mammals of Tamil Nadu and Kerala</title>
+				<feature></feature>
+				<page>0060-0070</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birding in Ooty</title>
+				<feature></feature>
+				<page>0071-0074</page>
+				<allauthors>
+					<author>Kumar, R. Govind</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Stray Bird Notes from Madras</title>
+				<feature></feature>
+				<page>0075-0078</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yelagiri Revisited</title>
+				<feature></feature>
+				<page>0079-0082</page>
+				<allauthors>
+					<author>Satagopan, S. Ms.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Python and Barking Deer</title>
+				<feature></feature>
+				<page>0083-0084</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>MNS Annual Report 1995-96 and Statement of Accounts</title>
+				<feature></feature>
+				<page>0085-0088</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1996">
+			<entry>
+				<title>Salim Ali Centenary</title>
+				<feature></feature>
+				<page>0089-0089</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Dr. Salim Ali</title>
+				<feature></feature>
+				<page>0090-0092</page>
+				<allauthors>
+					<author>Abdulali, Humayun</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Stopping by the woods on a Sunday morning</title>
+				<feature></feature>
+				<page>0093-0102</page>
+				<allauthors>
+					<author>Ali, Salim Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Serving the cause of birds in Tamil Nadu</title>
+				<feature></feature>
+				<page>0103-0108</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Another Sambhar Story</title>
+				<feature></feature>
+				<page>0109-0111</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A letter from Lavkumar Khachar</title>
+				<feature></feature>
+				<page>0112-0113</page>
+				<allauthors>
+					<author>Khachar, Lavkumar</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="013">
+		<part pnum="01" month="01" year="1997">
+			<entry>
+				<title>Some bird records from Central Bhutan</title>
+				<feature></feature>
+				<page>0001-0018</page>
+				<allauthors>
+					<author>Kumar, R. Govind</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Conservation-the Muthuvan's perspective</title>
+				<feature></feature>
+				<page>0019-0022</page>
+				<allauthors>
+					<author>Chengappa, Ganga</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A trek through a green valley to the greys beyond</title>
+				<feature></feature>
+				<page>0023-0029</page>
+				<allauthors>
+					<author>Praveen, J.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1997">
+			<entry>
+				<title>Millipedes</title>
+				<feature></feature>
+				<page>0030-0035</page>
+				<allauthors>
+					<author>Kubra Bano, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Stray Birds Notes From Madras-II</title>
+				<feature></feature>
+				<page>0036-0041</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mudumalai Animal Census, 1997</title>
+				<feature></feature>
+				<page>0042-0043</page>
+				<allauthors>
+					<author>Chandrasekharan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bird Identification Workshop-Vedanthangal</title>
+				<feature></feature>
+				<page>0044-0045</page>
+				<allauthors>
+					<author>Sreenath, Sushama</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Care of sick, Injured and Orphaned Birds-RSPCA/RSPB Information Sheet</title>
+				<feature></feature>
+				<page>0046-0053</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Rehabilitating Captive Birds</title>
+				<feature></feature>
+				<page>0054-0055</page>
+				<allauthors>
+					<author>Demitrius, Issac</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1997">
+			<entry>
+				<title>The Mamandur Forest Rest House</title>
+				<feature></feature>
+				<page>0056-0057</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Suligiri Maneater</title>
+				<feature></feature>
+				<page>0058-0062</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes on the Slatyheaded Scimitar Babbler and its Nests</title>
+				<feature></feature>
+				<page>0063-0065</page>
+				<allauthors>
+					<author>Raman, T. R. Shankar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mudumalai Annual Wildlife Census - 1997</title>
+				<feature></feature>
+				<page>0066-0069</page>
+				<allauthors>
+					<author>Saraswati, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mudumalai Wildlife Census - 1997</title>
+				<feature></feature>
+				<page>0070-0079</page>
+				<allauthors>
+					<author>Kumar, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0080-0085</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>MNS Annual Report and Statement of Accounts</title>
+				<feature></feature>
+				<page>0086-0090</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="014">
+		<part pnum="01" month="01" year="1998">
+			<entry>
+				<title>Skua at Fisherman's Cove</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author>Aldridge, John</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Killer Whales</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors>
+					<author>Miller, Harry</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Evening at Vedurupattu</title>
+				<feature></feature>
+				<page>0009-0013</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bird Migration and Flight Safety over Israel</title>
+				<feature></feature>
+				<page>0014-0017</page>
+				<allauthors>
+					<author>Yom-Tov, Yoram</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Another Elephant Encounter</title>
+				<feature></feature>
+				<page>0018-0020</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Western Ghats Odyssey</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Kumar, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Reflections About Tails</title>
+				<feature></feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1998">
+			<entry>
+				<title>The Polyandrous Breeding System of Bronze-winged Jacanas</title>
+				<feature></feature>
+				<page>0028-0044</page>
+				<allauthors>
+					<author>Butchart, Stuart</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birds of the Eravikulam National Park-A Survey Report</title>
+				<feature></feature>
+				<page>0045-0053</page>
+				<allauthors>
+					<author>Uthaman, P. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Whether Pigs have Wings</title>
+				<feature></feature>
+				<page>0054-0057</page>
+				<allauthors>
+					<author>Miller, Harry</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review-Bats of the Indian Subcontinent</title>
+				<feature></feature>
+				<page>0058-0060</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03-04" year="1998">
+			<entry>
+				<title>Ethics and the Naturalist</title>
+				<feature></feature>
+				<page>0061-0064</page>
+				<allauthors>
+					<author>Rajaram, A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Simpson Estate Wetland</title>
+				<feature></feature>
+				<page>0065-0072</page>
+				<allauthors>
+					<author>Guruswami, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Memoirs of a Countryside Entomologist-1</title>
+				<feature></feature>
+				<page>0073-0081</page>
+				<allauthors>
+					<author>Ghorpade, Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Hawk of my Heart</title>
+				<feature></feature>
+				<page>0082-0084</page>
+				<allauthors>
+					<author>Chandrasekharan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Giant Wood Spider in the Guindy National Park</title>
+				<feature></feature>
+				<page>0085-0087</page>
+				<allauthors>
+					<author>Venkataraman, V. S.</author>
+					<author>Kapoor, Vena</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ubiquitous Alarmist</title>
+				<feature></feature>
+				<page>0088-0090</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Mammals of Tamil Nadu and Kerala-Some Additions and Some Changes</title>
+				<feature></feature>
+				<page>0091-0093</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>MNS Annual Report 1997-98</title>
+				<feature></feature>
+				<page>0094-0100</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="015">
+		<part pnum="01" month="01" year="1999">
+			<entry>
+				<title>A Brief Introduction to Taxonomy and Nomenclature</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author>Pittie, Aasheesh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Striped Squirrels of South India</title>
+				<feature></feature>
+				<page>0007-0012</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bats of Bangalore City-A Review</title>
+				<feature></feature>
+				<page>0013-0015</page>
+				<allauthors>
+					<author>Krishnan, Riki</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Lissy and Lizzy-the story of our House Geckos</title>
+				<feature></feature>
+				<page>0016-0018</page>
+				<allauthors>
+					<author>Krishna, K. V. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Acacia</title>
+				<feature></feature>
+				<page>0019-0031</page>
+				<allauthors>
+					<author>Mahadeswaraswamy</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="1999">
+			<entry>
+				<title>Island Birds and Introduced Animals</title>
+				<feature></feature>
+				<page>0032-0035</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Rare Mammals of Western Ghats in the BNHS Collection</title>
+				<feature></feature>
+				<page>0036-0041</page>
+				<allauthors>
+					<author>Gavand, Meghana</author>
+					<author>Chaturvedi, Naresh</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>About a Hawk</title>
+				<feature></feature>
+				<page>0042-0044</page>
+				<allauthors>
+					<author>Wesley, Daniel H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Quotes from Gerald Durrell's Biography</title>
+				<feature></feature>
+				<page>0045-0050</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>A Visit to Pt. Calimere</title>
+				<feature></feature>
+				<page>0051-0053</page>
+				<allauthors>
+					<author>Chandrasekar, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Letters:The Thousand tigers or the butterfly</title>
+				<feature></feature>
+				<page>0054-0057</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="1999">
+			<entry>
+				<title>Memories of Bandipur</title>
+				<feature></feature>
+				<page>0058-0062</page>
+				<allauthors>
+					<author>Johnsingh, A. J. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Blinding Tree of India</title>
+				<feature></feature>
+				<page>0063-0066</page>
+				<allauthors>
+					<author>Amirthalingam, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Saga of Murthy-a makhna</title>
+				<feature></feature>
+				<page>0067-0070</page>
+				<allauthors>
+					<author>Krishnamurthy, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Indian Hare</title>
+				<feature></feature>
+				<page>0071-0073</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Indian Experience</title>
+				<feature></feature>
+				<page>0074-0075</page>
+				<allauthors>
+					<author>Morley, Allen H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Butterflies of IIT Madras Campus</title>
+				<feature></feature>
+				<page>0076-0077</page>
+				<allauthors>
+					<author>Varughese, Susy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Are there Moles in the Southern India?</title>
+				<feature></feature>
+				<page>0077-0078</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes:Eyes in the Night</title>
+				<feature></feature>
+				<page>0078-0078</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Mudumalai Experience</title>
+				<feature></feature>
+				<page>0079-0080</page>
+				<allauthors>
+					<author>Chandrasekharan, S.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="1999">
+			<entry>
+				<title>A Roach by another Name</title>
+				<feature></feature>
+				<page>0081-0082</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Changes in the Bird Fauna of a Scrub-Jungle Following Fragmentation and Habitat Alterations</title>
+				<feature></feature>
+				<page>0083-0093</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Ambitious Cobra</title>
+				<feature></feature>
+				<page>0094-0095</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Question of Taste</title>
+				<feature></feature>
+				<page>0096-0098</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>MNS Annual Report 1998-99</title>
+				<feature></feature>
+				<page>0099-0102</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Shivaji's Edict</title>
+				<feature></feature>
+				<page>0103-0103</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="016">
+		<part pnum="01" month="01" year="2000">
+			<entry>
+				<title>The owls of Auroville</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors>
+					<author>Ramanujam, Eric Mario</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Tamil writings of M. Krishnan</title>
+				<feature></feature>
+				<page>0007-0011</page>
+				<allauthors>
+					<author>Theodore S. Baskaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Soil Critters</title>
+				<feature></feature>
+				<page>0012-0015</page>
+				<allauthors>
+					<author>Narayana, Sumana</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Encounters with wildlife at Carady Goody Estate</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author>Krishna, KVS</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Tale of Three species</title>
+				<feature></feature>
+				<page>0021-0022</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02-03" month="02" year="2000">
+			<entry>
+				<title>The Indian marine habitat</title>
+				<feature>A Catalogue of Indian Marine Mammal Records</feature>
+				<page>0023-0023</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Factors affecting the distribution of marine mammals</title>
+				<feature>A Catalogue of Indian Marine Mammal Records</feature>
+				<page>0023-0023</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The distribution of Indian marine mammals</title>
+				<feature>A Catalogue of Indian Marine Mammal Records</feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The decline of marine mammals</title>
+				<feature>A Catalogue of Indian Marine Mammal Records</feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Research and conservation needs</title>
+				<feature>A Catalogue of Indian Marine Mammal Records</feature>
+				<page>0025-0025</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Records of marine mammals from India</title>
+				<feature>A Catalogue of Indian Marine Mammal Records</feature>
+				<page>0026-0026</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Family Delphindae</title>
+				<feature>Order Cetacea</feature>
+				<page>0026-0040</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Family Phocoenidae</title>
+				<feature>Order Cetacea</feature>
+				<page>0040-0041</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Family Physeteridae</title>
+				<feature>Order Cetacea</feature>
+				<page>0042-0044</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Family Ziphiidae</title>
+				<feature>Order Cetacea</feature>
+				<page>0044-0045</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Family Balaenopteridae</title>
+				<feature>Order Cetacea</feature>
+				<page>0046-0055</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Family Balenidae</title>
+				<feature>Order Cetacea</feature>
+				<page>0056-0056</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Family dugongidae</title>
+				<feature>Order Sirenia</feature>
+				<page>0056-0059</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>References</title>
+				<feature></feature>
+				<page>0060-0074</page>
+				<allauthors/>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2000">
+			<entry>
+				<title>Identification of the Agamid Lizards of the Western Ghats</title>
+				<feature></feature>
+				<page>0075-0081</page>
+				<allauthors>
+					<author>Bhupathy, S.</author>
+					<author>Kannan, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Visit to Jatinga</title>
+				<feature></feature>
+				<page>0082-0084</page>
+				<allauthors>
+					<author>Kumar, R. Govind</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Manna From the Treetop</title>
+				<feature></feature>
+				<page>0085-0086</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Whale Rescue Operation in Kodiakarai</title>
+				<feature></feature>
+				<page>0087-0090</page>
+				<allauthors>
+					<author>Baruah, Akash Deep</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Nesting of Pied Myna (Sturnus contra)</title>
+				<feature></feature>
+				<page>0091-0092</page>
+				<allauthors>
+					<author>Sivshankar, Avinash</author>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>MNS 23rd Annual Report 1999-2003</title>
+				<feature></feature>
+				<page>0093-0097</page>
+				<allauthors/>
+			</entry>
+		</part>	
+	</volume>
+	<volume vnum="017-018">
+		<part pnum="01" month="01" year="2001-2002">
+			<entry>
+				<title>Birds of the Peechi-Vazhani Wildlife Sanctuary,Kerala (India)</title>
+				<feature></feature>
+				<page>0001-0015</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Wildlife Conservation: Rishi Valley Experiment</title>
+				<feature></feature>
+				<page>0016-0019</page>
+				<allauthors>
+					<author>Rangaswami, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birding Holiday in Northern India</title>
+				<feature></feature>
+				<page>0020-0023</page>
+				<allauthors>
+					<author>Kumar, R. Govind</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Neyyar Wildlife Sanctuary</title>
+				<feature></feature>
+				<page>0024-0029</page>
+				<allauthors>
+					<author>Johnsingh, A. J. T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Chennai Coast and Olive Ridleys</title>
+				<feature></feature>
+				<page>0030-0032</page>
+				<allauthors>
+					<author>Murugavel, T.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes on the Breeding Behaviour of the Coppersmith Barbet: Megalaima Haemacephala</title>
+				<feature></feature>
+				<page>0033-0040</page>
+				<allauthors>
+					<author>Sundararaman, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Phenomenon of Musth in Elephants</title>
+				<feature></feature>
+				<page>0041-0044</page>
+				<allauthors>
+					<author>Krishnamurthy, V.,Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Avenue Trees: The Green Pillars of Chennai City</title>
+				<feature></feature>
+				<page>0045-0050</page>
+				<allauthors>
+					<author>Balaji, P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>About books-"Nature's Spokesman"-M. Krishnan</title>
+				<feature></feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Rajaram, A., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Any Takers?</title>
+				<feature></feature>
+				<page>0053-0054</page>
+				<allauthors>
+					<author>Khacher, Lavkumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Madras Naturalists' society - Income and Expenditure Account for the Year Ended 31st March 2002</title>
+				<feature></feature>
+				<page>0055-0055</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Madras Naturalists' society 24th Annual Report (2001-2002)</title>
+				<feature></feature>
+				<page>0056-0057</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="019-020">
+		<part pnum="01" month="01" year="2003-2004">
+			<entry>
+				<title>Vandalur Leopard-Some Thoughts</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors>
+					<author>Davidar, E. R. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The King Cobra</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Jungle Memories</title>
+				<feature></feature>
+				<page>0007-0013</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Uppalapadu Bird Refuge</title>
+				<feature></feature>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Rao, K. Mrutyumjaya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Birds of the Palnis-A Birdwatcher's List</title>
+				<feature></feature>
+				<page>0017-0060</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>References</title>
+				<feature></feature>
+				<page>0061-0064</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="021">
+		<part pnum="01" month="01" year="2005">
+			<entry>
+				<title>Birds in Scrub Jungles and Monocultures in Tamilnadu</title>
+				<feature></feature>
+				<page>0001-0011</page>
+				<allauthors>
+					<author>Gandhi, Tara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>More Jungle Memories</title>
+				<feature></feature>
+				<page>0012-0018</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Photographing Wildlife in India</title>
+				<feature></feature>
+				<page>0019-0035</page>
+				<allauthors>
+					<author>Perumal, T. N. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes on a Slender Loris (Loris Tardigradus (Linnaeus))</title>
+				<feature></feature>
+				<page>0036-0037</page>
+				<allauthors>
+					<author>Morley, Allen H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Nilgiri Biosphere Reserve</title>
+				<feature></feature>
+				<page>0038-0046</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Stomachs, Anyone?</title>
+				<feature></feature>
+				<page>0047-0049</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Indian Hare</title>
+				<feature></feature>
+				<page>0050-0052</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>MNS 26th Annual Report (2002-2003)</title>
+				<feature></feature>
+				<page>0053-0057</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report 2004</title>
+				<feature></feature>
+				<page>0058-0061</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Annual Report 2005</title>
+				<feature></feature>
+				<page>0062-0063</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="022">
+		<part pnum="01" month="01" year="2006">
+			<entry>
+				<title>Black kite</title>
+				<feature></feature>
+				<page>0001-0014</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Life on the Edge of the Scrub</title>
+				<feature></feature>
+				<page>0015-0025</page>
+				<allauthors>
+					<author>Lenin, Janaki</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Update of Avifauna of Upper Nilgiris</title>
+				<feature></feature>
+				<page>0026-0029</page>
+				<allauthors>
+					<author>Praveen, J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Heroic Stuff</title>
+				<feature></feature>
+				<page>0030-0031</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Avocet Journal</title>
+				<feature></feature>
+				<page>0032-0033</page>
+				<allauthors>
+					<author>Chandrasekharan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Pied Crested Cuckoo</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors>
+					<author>Sivaraman, Pankajam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Accounts 2005-2006</title>
+				<feature></feature>
+				<page>0036-0037</page>
+				<allauthors/>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="023">
+		<part pnum="01-02" month="01" year="2007">
+			<entry>
+				<title>Avifauna of Kumarakom Heronry, Kottayam, Kerala</title>
+				<feature></feature>
+				<page>0001-0014</page>
+				<allauthors>
+					<author>Narayanan, S. Prasanth</author>
+					<author>Manoj, P.</author>
+					<author>Sreekumar, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>From the Galaxies to the Mosquitoes!</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author>Kachar, Lav Kumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birds at a Tea Estate in the Nilgiris, Tamilnadu</title>
+				<feature></feature>
+				<page>0019-0026</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Wetlands of South Chennai The Pallikaranai Marsh</title>
+				<feature></feature>
+				<page>0027-0045</page>
+				<allauthors>
+					<author>Patnaik, C. Dipankar</author>
+					<author>Narayanan, Priya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vanishing Sparrows</title>
+				<feature></feature>
+				<page>0046-0049</page>
+				<allauthors>
+					<author>Kannan, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Munnar and Thattekad November 2006</title>
+				<feature></feature>
+				<page>0050-0053</page>
+				<allauthors>
+					<author>Ramakrishnan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Carrying Capacity And India's Wildlife</title>
+				<feature></feature>
+				<page>0054-0062</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03-04" month="03" year="2007">
+			<entry>
+				<title>Salim Ali's Ten Commandments</title>
+				<feature></feature>
+				<page>0001-0014</page>
+				<allauthors>
+					<author>Vijayaraghavan, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birds Seen at Sholai School and Kodaikanal (Palni Hills), Tamilnadu</title>
+				<feature></feature>
+				<page>0015-0029</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>From Birding in England to the Palani Hills in the Western Ghats</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author>Homan, Joe</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Synopsis of the Third Annual G.B. Pant Memorial Lecture-Climate Change and its Effects on Global Biodiversity</title>
+				<feature></feature>
+				<page>0034-0048</page>
+				<allauthors>
+					<author>Kannan, Ragupathy, Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Or Through Inaction</title>
+				<feature></feature>
+				<page>0049-0051</page>
+				<allauthors>
+					<author>Sathasivam, Kumaran</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Smooth Indian Otter</title>
+				<feature></feature>
+				<page>0052-0054</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Red Ant</title>
+				<feature></feature>
+				<page>0055-0058</page>
+				<allauthors>
+					<author>E. H. A.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="024">
+		<part pnum="01" month="01" year="2008">
+			<entry>
+				<title>Observations at Theosophical Society</title>
+				<feature></feature>
+				<page>0001-0007</page>
+				<allauthors>
+					<author>Yerra, K. Vijay</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Incubation of Mallard (Anas platyrhynchos) Eggs by Domestic Hen (Gallus domesticus)</title>
+				<feature></feature>
+				<page>0008-0010</page>
+				<allauthors>
+					<author>Ahangar, A. Fayaz</author>
+				</allauthors>
+			</entry>				
+			<entry>
+				<title>Wetland Ecosystems of the East Coast and Their Conservation</title>
+				<feature></feature>
+				<page>0011-0025</page>
+				<allauthors>
+					<author>Sankaran, Vasumathi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birds at Sri Penusila Narasimha Sanctuary, Andhra Pradesh</title>
+				<feature></feature>
+				<page>0026-0030</page>
+				<allauthors>
+					<author>Santharam, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Tusker</title>
+				<feature></feature>
+				<page>0031-0032</page>
+				<allauthors>
+					<author>Menon, R. K. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Miscellaneous Notes</title>
+				<feature></feature>
+				<page>0033-0043</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Otters Again</title>
+				<feature></feature>
+				<page>0044-0046</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="025">
+		<part pnum="01-02" month="01" year="2009">
+			<entry>
+				<title>Lone Palm Tree, Sir!</title>
+				<feature></feature>
+				<page>0001-0014</page>
+				<allauthors>
+					<author>Raman, T. R. Shankar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vocalization of the Koel-Part I</title>
+				<feature></feature>
+				<page>0015-0031</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vocalization of the Koel-Part II-Response to Various Sounds</title>
+				<feature></feature>
+				<page>0032-0040</page>
+				<allauthors>
+					<author>Gurusami, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yellow-throated Bulbul Pycnonotus xantholaemus (Jerdon, 1845) in John Ross Fort, Sathgar Hills, Pernampet, Vellore District, Tamil Nadu, South India</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<allauthors>
+					<author>Mani, A. Kalai</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Indian Chameleon</title>
+				<feature></feature>
+				<page>0049-0050</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+</blb>
