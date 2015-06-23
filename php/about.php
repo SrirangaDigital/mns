@@ -45,10 +45,10 @@
             <p class="about_p">Before publication of <i>Blackbuck</i> commenced, such pieces of writing appeared in the monthly bulletin of the MNS. Full-fledged articles and field observations of members continue to be published in the bulletin, which also documents the monthly activities of the society.</p>
             <p class="about_p">Selected articles that appeared in <i>Blackbuck</i> were published in the book <i>Sprint of the Blackbuck</i>, which was edited by the award-winning author Mr. Theodore Baskaran.</p>
             <p class="about_p">P.M. Rangarajan, V. Santharam, V.J. Rajan, A. Rajaram, K.V. Sudhakar and Kumaran Sathasivam have served as honorary editors of <i>Blackbuck</i> over the years.</p>
-            <p class="about_head">This CD</p>
-            <p class="about_p">This CD contains all the articles that appeared in the first 25 volumes of <i>Blackbuck</i>. It also contains in digital form the issues of the bulletin from 1978 to 2010.</p>
-            <p class="about_p">A powerful search facility has been provided in this CD.</p>
-            <p class="about_p">This CD will be of interest to a wide audience, ranging from professional scientists and amateur naturalists to the general public.</p>
+            <p class="about_head">This Collection</p>
+            <p class="about_p">This collection contains all the articles that appeared in the first 25 volumes of <i>Blackbuck</i>. It also contains in digital form the issues of the bulletin from 1978 to 2010.</p>
+            <p class="about_p">A powerful search facility has been provided here. This material will be of interest to a wide audience, ranging from scientists and naturalists to the general public.</p>
+            <p class="about_p">Digitization of <i>Blackbuck</i> was sponsored by Syndicate Bank.</p>
 		</div>
 	</div>
 	<div id="footer"><img src="images/twig.png"/><br /><p>&copy; 2015 Madras Naturalists&apos; Society</p></div>
