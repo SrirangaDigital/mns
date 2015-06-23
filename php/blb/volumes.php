@@ -77,10 +77,10 @@ if($num_rows>0)
 		}
 		
         $dvolume = $volume;
-        $dvolume = preg_replace("/^0/", "", $dvolume);
-        $dvolume = preg_replace("/\-0/", "-", $dvolume);
+        $dvolume = preg_replace("/^0+/", "", $dvolume);
+        $dvolume = preg_replace("/\-0+/", "-", $dvolume);
         
-		echo "<li><span class=\"yearspan\">$year (Vol. $dvolume)</span><br /><span class=\"issuespan\">";
+		echo "<li><span class=\"yearspan\">$year (Volume $dvolume)</span><br /><span class=\"issuespan\">";
 		$query1 = "select distinct part,month from article_blb where volume='$volume' order by part";
 		$result1 = mysql_query($query1);
 
@@ -100,15 +100,20 @@ if($num_rows>0)
                 $dpart = preg_replace("/^0/", "", $dpart);
                 $dpart = preg_replace("/\-0/", "-", $dpart);
                 $dpart = preg_replace("/99/", "Sp", $dpart);
-				
+				$dpart = preg_replace('/\-/', '–', $dpart);
+
 				if($flag == 0)
 				{
-					echo "<a title=\"".$month_name{intval($month)}."\" href=\"toc.php?vol=$volume&part=$part\">No. $dpart</a>";
+					echo "<a title=\"".$month_name{intval($month)}."\" href=\"toc.php?vol=$volume&part=$part\">";
+					echo (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
+					echo "</a>";
 					$flag = 1;
 				}
 				else
 				{
-					echo "<span class=\"issuespan_delim\">|</span><a href=\"toc.php?vol=$volume&part=$part\">No. $dpart</a>";
+					echo "<span class=\"issuespan_delim\">|</span><a href=\"toc.php?vol=$volume&part=$part\">";
+					echo (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
+					echo "</a>";
 				}
 			}
 		}
