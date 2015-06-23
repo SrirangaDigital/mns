@@ -51,7 +51,7 @@
             <p class="about_p">This CD will be of interest to a wide audience, ranging from professional scientists and amateur naturalists to the general public.</p>
 		</div>
 	</div>
-	<div id="footer"><img src="images/twig.png"/><br /><p>&copy; 2014 Madras Naturalists&apos; Society</p></div>
+	<div id="footer"><img src="images/twig.png"/><br /><p>&copy; 2015 Madras Naturalists&apos; Society</p></div>
 </div>				
 </body>
 </html>
