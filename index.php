@@ -24,7 +24,6 @@
 				<li><a href="php/about.php">About</a></li>
 				<li><a href="php/blb/volumes.php">Blackbuck</a></li>
 				<li><a href="php/bulletin/volumes.php">Bulletin</a></li>
-				<li><a href="php/contact.php">Contact Us</a></li>
 			</ul>
 		</div>
 	</div>

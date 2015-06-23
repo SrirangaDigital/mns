@@ -24,7 +24,6 @@
 				<li><a class="active" href="about.php">About</a></li>
 				<li><a href="blb/volumes.php">Blackbuck</a></li>
 				<li><a href="bulletin/volumes.php">Bulletin</a></li>
-				<li><a href="contact.php">Contact Us</a></li>
 			</ul>
 		</div>
 	</div>
@@ -49,7 +48,9 @@
             <p class="about_p">This collection contains all the articles that appeared in the first 25 volumes of <i>Blackbuck</i>. It also contains in digital form the issues of the bulletin from 1978 to 2010.</p>
             <p class="about_p">A powerful search facility has been provided here. This material will be of interest to a wide audience, ranging from scientists and naturalists to the general public.</p>
             <p class="about_p">Digitization of <i>Blackbuck</i> was sponsored by Syndicate Bank.</p>
-		</div>
+			<p class="about_head">Address for Correspondence on <i>Blackbuck</i></p>
+            <p class="about_p">K.V. Sudhakar<br />kvsudha@gmail.com</p>
+        </div>
 	</div>
 	<div id="footer"><img src="images/twig.png"/><br /><p>&copy; 2015 Madras Naturalists&apos; Society</p></div>
 </div>				
