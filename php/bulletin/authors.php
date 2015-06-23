@@ -5,7 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<link rel="stylesheet" type="text/css" href="../style/style.css" media ="screen" />
 	<link rel="stylesheet" type="text/css" href="../style/reset.css" media ="screen" />
-	<title>Black Buck</title>
+	<title>Blackbuck</title>
 </head>	
 
 <body>
@@ -22,7 +22,7 @@
 			<ul>
 				<li><a href="../../index.php">Home</a></li>
 				<li><a href="../about.php">About</a></li>
-				<li><a href="../blb/volumes.php">Black Buck</a></li>
+				<li><a href="../blb/volumes.php">Blackbuck</a></li>
 				<li><a class="active" href="volumes.php">Bulletin</a></li>
 				<li><a href="../contact.php">Contact Us</a></li>
 			</ul>
