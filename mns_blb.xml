@@ -2742,7 +2742,7 @@
 				<feature></feature>
 				<page>0007-0011</page>
 				<allauthors>
-					<author>Theodore S. Baskaran</author>
+					<author>Baskaran, Theodore S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3430,6 +3430,48 @@
 				<title>The Indian Chameleon</title>
 				<feature></feature>
 				<page>0049-0050</page>
+				<allauthors>
+					<author>Krishnan, M.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="03-04" month="04" year="2009">
+			<entry>
+				<title>The Tiger of Tigerhaven</title>
+				<feature></feature>
+				<page>0001-0010</page>
+				<allauthors>
+					<author>Ahimaz, Preston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>On Birds, Bamboos and Urban Life</title>
+				<feature></feature>
+				<page>0011-0015</page>
+				<allauthors>
+					<author>Gandhi, Tara</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Language and Ecology: A Fading Heritage</title>
+				<feature></feature>
+				<page>0016-0021</page>
+				<allauthors>
+					<author>Baskaran, Theodore S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Observations on a Breeding pair of White-Breasted Kingfishers in the City of Chennai</title>
+				<feature></feature>
+				<page>0022-0051</page>
+				<allauthors>
+					<author>Rao, T. Koneri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Giant Squirrels</title>
+				<feature></feature>
+				<page>0052-0054</page>
 				<allauthors>
 					<author>Krishnan, M.</author>
 				</allauthors>
