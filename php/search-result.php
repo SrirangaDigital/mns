@@ -250,8 +250,10 @@ if($num_results > 0)
 		$page_end=$row1['page_end'];
         
         $dpart = $part;
-        $dpart = preg_replace("/^0/", "", $dpart);
-        $dpart = preg_replace("/\-0/", "-", $dpart);
+        $dpart = preg_replace("/^0+/", "", $dpart);
+        $dpart = preg_replace("/\-0+/", "-", $dpart);
+        $dpart = preg_replace('/\-/', '–', $dpart);
+		$dpart = (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
 
         $dvolume = $volume;
         $dvolume = preg_replace("/^0+/", "", $dvolume);
@@ -268,7 +270,7 @@ if($num_results > 0)
         
         if ($dtype == 'blb')
         {
-            $dtype = 'Black Buck';
+            $dtype = 'Blackbuck';
             $vtype = 'blb';
         }
         elseif ($dtype == 'bul')
@@ -298,11 +300,11 @@ if($num_results > 0)
             
             if($vtype == "blb")
             {
-                echo "&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">Vol. $dvolume&nbsp;&nbsp;No.&nbsp;$dpart&nbsp;($year)</a></span>";
+                echo "&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">Volume $dvolume&nbsp;&nbsp;$dpart&nbsp;(" . $month_name{intval($month)} . " $year)</a></span>";
             }
             elseif($vtype == "bulletin")
             {
-                echo "&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Vol. $dvolume&nbsp;No. $dpart)</a></span>";
+                echo "&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Volume $dvolume&nbsp;$dpart)</a></span>";
             }
             
 			if($authid != 0)

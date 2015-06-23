@@ -59,12 +59,14 @@ $year=$row['year'];
 $dpart = $part;
 $dpart = preg_replace("/^0/", "", $dpart);
 $dpart = preg_replace("/\-0/", "-", $dpart);
+$dpart = preg_replace('/\-/', '–', $dpart);
+$dpart = (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
 
 $dvolume = $volume;
 $dvolume = preg_replace("/^0+/", "", $dvolume);
 $dvolume = preg_replace("/\-0+/", "-", $dvolume);
 
-echo "<div class=\"archive_title\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Vol. $dvolume&nbsp;No. $dpart)</div>";
+echo "<div class=\"archive_title\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Volume $dvolume&nbsp;$dpart)</div>";
 echo "<div class=\"archive\">\n<ul>";
 
 $query = "select * from article_bulletin where volume='$volume' and part='$part' order by page, title";

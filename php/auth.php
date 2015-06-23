@@ -49,7 +49,7 @@ $authorname=$_GET['author'];
 
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
-echo "<div class=\"archive_title\">Articles Written by&nbsp;<span class=\"author\">$authorname</span> in Black Buck and the Bulletin</div><div class=\"archive\"><ul>";
+echo "<div class=\"archive_title\">Articles Written by&nbsp;<span class=\"author\">$authorname</span> in Blackbuck and the Bulletin</div><div class=\"archive\"><ul>";
 
 $query = "(select * from article_blb where authid like '%$authid%') UNION ALL (select * from article_bulletin where authid like '%$authid%') order by volume, part, page";
 $result = mysql_query($query);
@@ -73,6 +73,8 @@ if($num_rows>0)
         $dpart = $part;
         $dpart = preg_replace("/^0/", "", $dpart);
         $dpart = preg_replace("/\-0/", "-", $dpart);
+		$dpart = preg_replace('/\-/', '–', $dpart);
+		$dpart = (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
 
         $dvolume = $volume;
         $dvolume = preg_replace("/^0+/", "", $dvolume);
@@ -83,7 +85,7 @@ if($num_rows>0)
         
         if ($dtype == 'blb')
         {
-            $dtype = 'Black Buck';
+            $dtype = 'Blackbuck';
             $vtype = 'blb';
         }
         elseif ($dtype == 'bul')
@@ -103,11 +105,11 @@ if($num_rows>0)
         echo "&nbsp;&nbsp;|&nbsp;&nbsp;";
         if($vtype == "blb")
         {
-            echo "<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">Vol. $dvolume&nbsp;&nbsp;No.&nbsp;$dpart&nbsp;($year)</a></span>";
+            echo "<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">Volume $dvolume&nbsp;&nbsp;$dpart&nbsp;(" . $month_name{intval($month)} . " $year)</a></span>";
         }
         elseif($vtype == "bulletin")
         {
-            echo "<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Vol. $dvolume&nbsp;No. $dpart)</a></span>";
+            echo "<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Volume $dvolume&nbsp;$dpart)</a></span>";
         }
         echo "</li>\n";        
 	}

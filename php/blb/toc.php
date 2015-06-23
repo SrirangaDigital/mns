@@ -63,8 +63,10 @@ $dpart = preg_replace("/\-0/", "-", $dpart);
 $dvolume = $volume;
 $dvolume = preg_replace("/^0+/", "", $dvolume);
 $dvolume = preg_replace("/\-0+/", "-", $dvolume);
+$dpart = preg_replace('/\-/', '–', $dpart);
+$dpart = (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
 
-echo "<div class=\"archive_title\">Vol. $dvolume&nbsp;&nbsp;No.&nbsp;$dpart&nbsp;($year)</div>";
+echo "<div class=\"archive_title\">Volume $dvolume&nbsp;$dpart&nbsp;(" . $month_name{intval($month)} . " $year)</div>";
 echo "<div class=\"archive\">\n<ul>";
 
 $query = "select * from article_blb where volume='$volume' and part='$part' order by page, title";

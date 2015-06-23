@@ -101,19 +101,16 @@ if($num_rows>0)
                 $dpart = preg_replace("/\-0/", "-", $dpart);
                 $dpart = preg_replace("/99/", "Sp", $dpart);
 				$dpart = preg_replace('/\-/', '–', $dpart);
+				$dpart = (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
 
 				if($flag == 0)
 				{
-					echo "<a title=\"".$month_name{intval($month)}."\" href=\"toc.php?vol=$volume&part=$part\">";
-					echo (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
-					echo "</a>";
+					echo "<a title=\"".$month_name{intval($month)}."\" href=\"toc.php?vol=$volume&part=$part\">$dpart</a>";
 					$flag = 1;
 				}
 				else
 				{
-					echo "<span class=\"issuespan_delim\">|</span><a href=\"toc.php?vol=$volume&part=$part\">";
-					echo (preg_match('/\–/', $dpart)) ? "Nos. $dpart" : "No. $dpart";
-					echo "</a>";
+					echo "<span class=\"issuespan_delim\">|</span><a href=\"toc.php?vol=$volume&part=$part\">$dpart</a>";
 				}
 			}
 		}
