@@ -17,6 +17,7 @@ text varchar(5000)) ENGINE=MyISAM");
 $sth11->execute();
 $sth11->finish(); 
 @volumes = `ls Text/blb`;
+print "\n\nblackbuck-------------------\n";
 
 for($i1=0;$i1<@volumes;$i1++)
 {

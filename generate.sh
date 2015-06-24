@@ -9,6 +9,7 @@ echo "DROP DATABASE IF EXISTS mns; CREATE DATABASE mns;" | /usr/bin/mysql -u$usr
 
 perl author_blb.pl $host $db $usr $pwd
 perl author_bulletin.pl $host $db $usr $pwd
+perl author_special.pl $host $db $usr $pwd
 
 perl feat_blb.pl $host $db $usr $pwd
 perl feat_bulletin.pl $host $db $usr $pwd
@@ -16,11 +17,17 @@ perl feat_bulletin.pl $host $db $usr $pwd
 perl articles_blb.pl $host $db $usr $pwd
 perl articles_bulletin.pl $host $db $usr $pwd
 
+perl books_special.pl $host $db $usr $pwd
+perl toc_special.pl $host $db $usr $pwd
+
 perl ocr_blb.pl $host $db $usr $pwd
 perl ocr_bulletin.pl $host $db $usr $pwd
+perl ocr_special.pl $host $db $usr $pwd
 
 perl searchtable_blb.pl $host $db $usr $pwd
 perl searchtable_bulletin.pl $host $db $usr $pwd
+perl searchtable_special.pl $host $db $usr $pwd
 
 echo "create fulltext index text_index_blb on searchtable_blb (text);" | /usr/bin/mysql -u$usr -p$pwd $db
 echo "create fulltext index text_index_bulletin on searchtable_bulletin (text);" | /usr/bin/mysql -u$usr -p$pwd $db
+echo "create fulltext index text_index_special on searchtable_special (text);" | /usr/bin/mysql -u$usr -p$pwd $db

@@ -30,6 +30,8 @@ $sth11->finish();
 $sth1=$dbh->prepare("select * from article_bulletin order by titleid");
 $sth1->execute();
 
+print "\n\nbulletin-------------------\n";
+
 while($ref=$sth1->fetchrow_hashref())
 {
 	$titleid = $ref->{'titleid'};
