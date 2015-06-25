@@ -98,6 +98,7 @@ if($num_rows>0)
                 $dpart = preg_replace("/^0/", "", $dpart);
                 $dpart = preg_replace("/\-0/", "-", $dpart);
                 $dpart = preg_replace("/99/", "Sp", $dpart);
+				$dpart = preg_replace('/\-/', '–', $dpart);
                 
 				if($flag == 0)
 				{
