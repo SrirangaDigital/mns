@@ -5,6 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<link rel="stylesheet" type="text/css" href="php/style/indexstyle.css" media ="screen" />
 	<link rel="stylesheet" type="text/css" href="php/style/reset.css" media ="screen" />
+	<link rel="icon" type="image/png" href="php/images/favicon.png">
 	<title>Black Buck</title>
 </head>	
 
