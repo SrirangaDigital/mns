@@ -112,6 +112,9 @@ body{
 .yearspan {
 	font-size: 0.9em;
 }
+.btml .yearspan {
+	color: #FFFFFF;
+}
 .yearspan a{
 /*
 	color: #FFE4B5;
@@ -289,6 +292,7 @@ ul ul
 	text-decoration:underline;
 }
 .authorspan {
+	color:#A0522D;
 	font-size: 0.9em;
 	margin:0 1em 0 1em;
 }
