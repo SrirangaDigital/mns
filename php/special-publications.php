@@ -34,6 +34,7 @@
 				<ul>
 					<li><span class="amenu"><a href="blb/volumes.php">Blackbuck</a></span><span class="issuespan_delim big">|</span></li>
 					<li><span class="amenu"><a href="bulletin/volumes.php">Bulletin</a></span><span class="issuespan_delim big">|</span></li>
+					<li><span class="amenu"><a href="special-publications.php">Special Publications</a></span><span class="issuespan_delim big">|</span></li>
 					<li><span class="amenu"><a href="search.php">Search</a></span><span class="issuespan_delim big">|</span></li>
 				</ul>
 			</div>
