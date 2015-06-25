@@ -145,7 +145,7 @@ if($num_rows>0)
 }
 else
 {
-    echo "<li><span class=\"titlespan\">Sorry! No articles were found to begin with the letter '$letter' in the Bulletins of Madras Naturalists' Society</span></li>";
+    echo "<li><span class=\"titlespan\">Sorry! No articles were found to begin with the letter '$letter' in the Bulletin of Madras Naturalists' Society</span></li>";
 }
 ?>
 				</ul>

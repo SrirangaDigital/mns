@@ -145,7 +145,7 @@ if($num_rows>0)
 }
 else
 {
-    echo "<li><span class=\"titlespan\">Sorry! No articles were found to begin with the letter '$letter' in Black Buck</span></li>";
+    echo "<li><span class=\"titlespan\">Sorry! No articles were found to begin with the letter '$letter' in <i>Blackbuck</i></span></li>";
 }
 ?>
 				</ul>

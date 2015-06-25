@@ -348,7 +348,7 @@ if($num_results > 0)
 else
 {
 	echo"<span class=\"titlespan\">No results</span><br />";
-	echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and Search again</a></span>";
+	echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and search again</a></span>";
 }
 
 ?>
