@@ -156,7 +156,7 @@ ul ul
 	font-family:'Gentium';
 	color: #FFFFFF;
 	padding-bottom: 1em;
-	margin:0 1em 2em 2em;
+	margin: 0em 1em 2em 1em;
     letter-spacing: 1px;
 }
 .col_amenu li
@@ -379,6 +379,9 @@ ul ul
 }
 .big{
     font-size: 2em;
+}
+.bigger{
+    font-size: 1.8em;
 }
 .bld{
     font-weight: bold;

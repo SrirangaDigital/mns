@@ -32,13 +32,9 @@
 		<div class="archive_volume">
 			<div class="col_amenu">
 				<ul>
-					<li><span class="amenu"><a href="blb/volumes.php">Blackbuck</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="bulletin/volumes.php">Bulletin</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="special-publications.php">Special Publications</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="search.php">Search</a></span><span class="issuespan_delim big">|</span></li>
+					<li><span class="amenu bigger">Search Results</span><span class="issuespan_delim bigger"><span class="bigger">|</span></span></li>
 				</ul>
 			</div>
-			<div class="archive_title">Search results</div>
 			<div class="archive">
 				<ul>
 <?php
@@ -228,7 +224,7 @@ $num_results = mysql_num_rows($result);
 
 if ($num_results > 0)
 {
-	echo "<div class=\"authorspan\">$num_results result(s)</div><br />";
+	echo "<div class=\"titlespan\">$num_results result(s)</div><br />";
 }
 $titleid[0]=0;
 $count = 1;

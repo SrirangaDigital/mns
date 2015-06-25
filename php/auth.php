@@ -32,10 +32,7 @@
 		<div class="archive_volume">
 			<div class="col_amenu">
 				<ul>
-					<li><span class="amenu"><a href="blb/volumes.php">Blackbuck</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="bulletin/volumes.php">Bulletin</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="special-publications.php">Special Publications</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="search.php">Search</a></span><span class="issuespan_delim big">|</span></li>
+					<li><span class="amenu bigger">Articles by</span><span class="issuespan_delim bigger"><span class="bigger">|</span></span></li>
 				</ul>
 			</div>
 <?php
@@ -50,7 +47,7 @@ $authorname=$_GET['author'];
 
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
-echo "<div class=\"archive_title\">Articles Written by&nbsp;<span class=\"author\">$authorname</span> in Blackbuck and the Bulletin</div><div class=\"archive\"><ul>";
+echo "<div class=\"archive_title\"><span class=\"author\">$authorname</span> in Blackbuck and the Bulletin</div><div class=\"archive\"><ul>";
 
 $query = "(select * from article_blb where authid like '%$authid%') UNION ALL (select * from article_bulletin where authid like '%$authid%') order by volume, part, page";
 $result = mysql_query($query);

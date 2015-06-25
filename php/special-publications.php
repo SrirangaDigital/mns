@@ -30,15 +30,11 @@
 	</div>
 	<div class="mainpage">
 		<div class="archive_volume">
-			<div class="col_amenu">
+			<div class="col_amenu push-top">
 				<ul>
-					<li><span class="amenu"><a href="blb/volumes.php">Blackbuck</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="bulletin/volumes.php">Bulletin</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="special-publications.php">Special Publications</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="search.php">Search</a></span><span class="issuespan_delim big">|</span></li>
+					<li><span class="amenu bigger">Special publications</span><span class="issuespan_delim bigger"><span class="bigger">|</span></span></li>
 				</ul>
 			</div>
-			<div class="archive_title">Special publications of the Madras Naturalists&apos; Society</div>
 			<div class="archive">
 				<ul>
 					<li class="btml"><span class="titlespan"><a target="_blank" href="../../Volumes/special/001/index.djvu?djvuopts&amp;page=1&amp;zoom=page">A Brief Introduction to Taxonomy and Nomenclature</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="yearspan">January 1999</span><br /><span class="authorspan">Pittie, Aasheesh</span></li>

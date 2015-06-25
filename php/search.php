@@ -32,14 +32,10 @@
 		<div class="archive_volume">
 			<div class="col_amenu">
 				<ul>
-					<li><span class="amenu"><a href="blb/volumes.php">Blackbuck</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="bulletin/volumes.php">Bulletin</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="special-publications.php">Special Publications</a></span><span class="issuespan_delim big">|</span></li>
-					<li><span class="amenu"><a href="search.php">Search</a></span><span class="issuespan_delim big">|</span></li>
+					<li><span class="amenu bigger">Search</span><span class="issuespan_delim bigger"><span class="bigger">|</span></span></li>
 				</ul>
 			</div>
-            <div class="archive_title">Search</div>
-			<div class="archive_search">
+    		<div class="archive_search">
 				<table>
 					<form method="POST" action="search-result.php">
 					<tr>
