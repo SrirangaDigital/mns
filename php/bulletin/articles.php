@@ -17,7 +17,7 @@
 </div>
 <div class="page">
 	<div id="header">
-		<img class="title" src="../images/logo_bulletin.png" />
+		<img class="title" src="../images/logo_white.png" />
 		<div id="menu">
 			<ul>
 				<li><a href="../../index.php">Home</a></li>
