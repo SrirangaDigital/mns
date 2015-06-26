@@ -52,7 +52,7 @@ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December","0"=>"Special");
 
-$query = "select distinct volume,year from article_bulletin order by volume";
+$query = "select distinct volume from article_bulletin order by volume";
 $result = mysql_query($query);
 
 $num_rows = mysql_num_rows($result);
@@ -68,7 +68,16 @@ if($num_rows>0)
 		$row=mysql_fetch_assoc($result);
 
 		$volume=$row['volume'];
-		$year=$row['year'];
+		
+		$query_year = "select distinct year from article_bulletin where volume = '$volume' order by year";
+		$result_year = mysql_query($query_year);
+		
+		$year = '';
+		while($row_year=mysql_fetch_assoc($result_year))
+		{
+			$year = $year . '–' . $row_year['year'];
+		}
+		$year = preg_replace('/^–/', '', $year);
 		
 		$count++;
 		if($count > $row_count)
