@@ -69,50 +69,20 @@
 							<select name="year1" class="titlespan">
 								<option value=""></option>
 <?php
-
-include("blb/connect.php");
-
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
-$query = "select distinct year from article_blb order by year";
-$result = mysql_query($query);
-
-$num_rows = mysql_num_rows($result);
-
-if($num_rows)
+for($i=1978;$i<=2011;$i++)
 {
-	for($i=1;$i<=$num_rows;$i++)
-	{
-		$row=mysql_fetch_assoc($result);
-
-		$year=$row['year'];
-		echo "<option value=\"$year\">$year</option>";
-	}
+	echo "<option value=\"$i\">$i</option>";
 }
-
 ?>
 							</select>
 							<span class="titlespan" >&nbsp;to&nbsp;</span>
 							<select name="year2" class="titlespan">
 								<option value=""></option>
-
 <?php
-$result = mysql_query($query);
-
-$num_rows = mysql_num_rows($result);
-
-if($num_rows)
+for($i=1978;$i<=2011;$i++)
 {
-	for($i=1;$i<=$num_rows;$i++)
-	{
-		$row=mysql_fetch_assoc($result);
-
-		$year=$row['year'];
-		echo "<option value=\"$year\">$year</option>";
-	}
+	echo "<option value=\"$i\">$i</option>";
 }
-
 ?>
 							</select>
 						</td>
