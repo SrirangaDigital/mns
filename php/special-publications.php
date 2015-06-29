@@ -39,14 +39,51 @@
 			</div>
 			<div class="archive">
 				<ul>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/005/index.djvu?djvuopts&amp;page=1&amp;zoom=page">First Anniversary Souvenir</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="yearspan">January 1980</span><br /><span class="authorspan"></span></li>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/001/index.djvu?djvuopts&amp;page=3&amp;zoom=page">Floods and Drought - Our Responsibility</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="yearspan">November 1987</span><br /><span class="authorspan">Rajan, V. J.</span></li>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/008/index.djvu?djvuopts&amp;page=1&amp;zoom=page">Water - conserve it or perish</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="yearspan">October 1988</span><br /><span class="authorspan">Rajan, V. J.</span></li>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/006/index.djvu?djvuopts&amp;page=1&amp;zoom=page">Our Precious Natural Environment - preserve it or perish</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="yearspan">November 1989</span><br /><span class="authorspan">Rajan, V. J.</span></li>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/002/index.djvu?djvuopts&amp;page=1&amp;zoom=page">Habitat Evaluation of the Guindy National Park for Conservation Strategies</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="yearspan">November 1990</span><br /><span class="authorspan">Rajarathinam, R.</span></li>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/007/index.djvu?djvuopts&amp;page=1&amp;zoom=page">Pitti Island Lakshadweep - An Ornithological Study</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="yearspan">September 1991</span><br /><span class="authorspan">Mathew, D. N., Gandhi, Tara, Santharam, V., Rajan, V. J. and Mathew, George</span></li>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/003/index.djvu?djvuopts&amp;page=3&amp;zoom=page">நாமும் நமது சுற்றுப்புறமும்</a></span><br /><span class="authorspan">Rajan, V. J.</span></li>
-					<li class="btml"><span class="titlespan"><a target="_blank" href="../Volumes/special/004/index.djvu?djvuopts&amp;page=1&amp;zoom=page">நமது சுற்றுப்புறம் - ஒரு கண்ணோட்டம்</a></span><br /><span class="authorspan">Rajan, V. J. and Selvakumar, M.</span></li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=005&amp;vtype=special&page=0001">First Anniversary Souvenir</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<span class="yearspan">January 1980</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/005/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=001&amp;vtype=special&amp;page=0000c">Floods and Drought - Our Responsibility</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<span class="yearspan">November 1987</span><br />
+						<span class="authorspan">Rajan, V. J.</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/001/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=008&amp;vtype=special&page=0000a">Water - conserve it or perish</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<span class="yearspan">October 1988</span><br />
+						<span class="authorspan">Rajan, V. J.</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/008/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=006&amp;vtype=special&page=0000a">Our Precious Natural Environment - preserve it or perish</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<span class="yearspan">November 1989</span><br />
+						<span class="authorspan">Rajan, V. J.</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/006/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=002&amp;vtype=special&page=0001">Habitat Evaluation of the Guindy National Park for Conservation Strategies</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<span class="yearspan">November 1990</span><br />
+						<span class="authorspan">Rajarathinam, R.</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/002/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=007&amp;vtype=special&page=0000a">Pitti Island Lakshadweep - An Ornithological Study</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<span class="yearspan">September 1991</span><br />
+						<span class="authorspan">Mathew, D. N., Gandhi, Tara, Santharam, V., Rajan, V. J. and Mathew, George</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/007/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=003&amp;vtype=special&page=0000c">நாமும் நமது சுற்றுப்புறமும்</a></span><br />
+						<span class="authorspan">Rajan, V. J.</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/003/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
+					<li class="btml">
+						<span class="titlespan"><a target="_blank" href="bookReader.php?volume=004&amp;vtype=special&page=0000a">நமது சுற்றுப்புறம் - ஒரு கண்ணோட்டம்</a></span><br />
+						<span class="authorspan">Rajan, V. J. and Selvakumar, M.</span><br />
+						<span class="downloadspan"><a href="../Volumes/special/pdf/004/index.pdf" target="_blank">Download pdf</a></span>
+					</li>
 				</ul>
 			</div>	
 		</div>
