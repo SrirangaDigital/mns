@@ -1,5 +1,7 @@
 <?php
-	
+
+	exec('find ../ReadWrite/ -mmin +10 -type f -name "*.pdf" -exec rm {} \;');
+	$downloadURL = '../index.php';
 	$titleid = $_GET['titleid'];
 	$vtype = $_GET['vtype'];
 	if($vtype == 'blb')
@@ -10,45 +12,36 @@
 			$db = mysql_connect('localhost',$user,$password) or die("Not connected to database");
 			$rs = mysql_select_db($database,$db) or die("No Database");
 			mysql_query("set names utf8");
-				
-			$query = "select * from article_".$type." where titleid =  '$titleid'";
-			$result = mysql_query($query);
-			$row = mysql_fetch_assoc($result);
-			$volume = $row['volume'];
-			$part = $row['part'];
-			$page = $row['page'];
-			$page_end = $row['page_end'];
-			$pdfList = "";
-			$str = '';
+
 			
-			$query1 = "select * from ocr_".$vtype." where volume = '$volume' and part = '$part' and cur_page between '$page' and '$page_end'";
+			$vars = explode('_', $titleid);
+			$volume = $vars[1];
+			$part = $vars[2];
+			$page = $vars[3];
+			$page_end = $vars[4];
+			$pdfList = '';
+			
+			$query1 = "select cur_page from ocr_".$vtype." where volume = '$volume' and part = '$part' and cur_page between '$page' and '$page_end'";
 			$result1 = mysql_query($query1) or die(mysql_error());
-			$numOfRows1 = mysql_num_rows($result1);
-			$pdfList='';
-			echo "suresh ".$numOfRows1."<br>".$query1;
-			for($j = 0; $j < $numOfRows1; $j++)
+			
+			while($row = mysql_fetch_assoc($result1))
 			{
-				$row1 = mysql_fetch_assoc($result1);
-				$pdfList .=  "../Volumes/".$vtype."/pdf/".$volume."/".$part."/".$row1["cur_page"].".pdf ";
+				$pdfList .= '../Volumes/' . $vtype . '/pdf/' . $volume . '/' . $part . '/' . $row["cur_page"] . '.pdf ';
 			}
-			$outFilename = '../ReadWrite/' . $vtype . '_' . $volume . '_' . $part . '_' . $page . '-'.$page_end. '.pdf';
+			
+			$downloadURL = '../ReadWrite/' . $vtype . '_' . $volume . '_' . $part . '_' . $page . '-'.$page_end. '.pdf';
+			system ('pdftk ' . $pdfList . ' cat output ' . $downloadURL);
 		}
 	}
-	elseif($vtype == 'bulletin' || $vtype == 'special')
+	elseif($vtype == 'bulletin')
 	{
-		include($vtype."/connect.php");
-		$db = mysql_connect('localhost',$user,$password) or die("Not connected to database");
-		$rs = mysql_select_db($database,$db) or die("No Database");
-		mysql_query("set names utf8");
-			
-		$query = "select * from article_".$type." where titleid =  '$titleid'";
-		$result = mysql_query($query);
-		$row = mysql_fetch_assoc($result);
-		$volume = $row['volume'];
-		$part = $row['part'];
-		$pdfList = "../Volumes/".$vtype."/pdf/".$volume."/".$part."/index.pdf";
-		$outFilename = '../ReadWrite/' . $vtype . '_' . $volume . '_' . $part . '.pdf';
+		$vars = explode('_', $titleid);
+		$volume = $vars[1];
+		$part = $vars[2];
+		
+		$resourceURL = '../Volumes/' . $vtype . '/pdf/' . $volume . '/' . $part . '/index.pdf';
+		$downloadURL = '../ReadWrite/' . $vtype . '_' . $volume . '_' . $part . '.pdf';
+		@copy($resourceURL, $downloadURL);
 	}
-	system ('pdftk '.$pdfList.' cat output ' . $outFilename);
-	@header("Location: $outFilename");
+	@header("Location: $downloadURL");
 ?>
