@@ -13,7 +13,6 @@
 			$rs = mysql_select_db($database,$db) or die("No Database");
 			mysql_query("set names utf8");
 
-			
 			$vars = explode('_', $titleid);
 			$volume = $vars[1];
 			$part = $vars[2];
@@ -21,7 +20,7 @@
 			$page_end = $vars[4];
 			$pdfList = '';
 			
-			$query1 = "select cur_page from ocr_".$vtype." where volume = '$volume' and part = '$part' and cur_page between '$page' and '$page_end'";
+			$query1 = "select cur_page from ocr_" . $vtype . " where volume = '$volume' and part = '$part' and cur_page between '$page' and '$page_end'";
 			$result1 = mysql_query($query1) or die(mysql_error());
 			
 			while($row = mysql_fetch_assoc($result1))
@@ -29,7 +28,7 @@
 				$pdfList .= '../Volumes/' . $vtype . '/pdf/' . $volume . '/' . $part . '/' . $row["cur_page"] . '.pdf ';
 			}
 			
-			$downloadURL = '../ReadWrite/' . $vtype . '_' . $volume . '_' . $part . '_' . $page . '-'.$page_end. '.pdf';
+			$downloadURL = '../ReadWrite/Blackbuck_' . $volume . '_' . $part . '_' . $page . '-'.$page_end. '.pdf';
 			system ('pdftk ' . $pdfList . ' cat output ' . $downloadURL);
 		}
 	}
@@ -40,7 +39,7 @@
 		$part = $vars[2];
 		
 		$resourceURL = '../Volumes/' . $vtype . '/pdf/' . $volume . '/' . $part . '/index.pdf';
-		$downloadURL = '../ReadWrite/' . $vtype . '_' . $volume . '_' . $part . '.pdf';
+		$downloadURL = '../ReadWrite/Bulletin_' . $volume . '_' . $part . '.pdf';
 		@copy($resourceURL, $downloadURL);
 	}
 	@header("Location: $downloadURL");
