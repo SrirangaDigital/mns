@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<?php session_start();?>
 <html xmlns="http://www.w3.org/1999/xhtml" lang= "en" xml:lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -234,6 +234,8 @@ if ($num_results > 0)
 $titleid[0]=0;
 $count = 1;
 $id = "0";
+$_SESSION['sd'] = "";
+
 if($num_results > 0)
 {
 	for($i=1;$i<=$num_results;$i++)
@@ -285,6 +287,11 @@ if($num_results > 0)
             $dtype = '';
             $vtype = '';
         }
+        if($text != '')
+		{
+			$cur_page = $row1['cur_page'];
+			$_SESSION['sd'][$vtype.$volume.$part][] = $row1['cur_page'];
+		}
         
 		if ($id != $titleid)
 		{
