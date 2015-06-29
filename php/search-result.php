@@ -55,6 +55,9 @@ $title=$_POST['title'];
 $year1=$_POST['year1'];
 $year2=$_POST['year2'];
 
+$author = addslashes($author);
+$title = addslashes($title);
+
 $author = preg_replace("/[,\-]+/", " ", $author);
 $author = preg_replace("/[\t]+/", " ", $author);
 $author = preg_replace("/[ ]+/", " ", $author);
