@@ -141,6 +141,7 @@ if($num_rows>0)
 				}
 			}
 		}
+		echo "<br /><span class=\"downloadspan\"><a href=\"../downloadPdf.php?titleid=$titleid&amp;vtype=$type\" target=\"_blank\">Download pdf</a></span>";
 		echo "</li>\n";
 	}
 }

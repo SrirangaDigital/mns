@@ -111,7 +111,8 @@ if($num_rows>0)
         {
             echo "<span class=\"yearspan\"><a href=\"$vtype/toc.php?vol=$volume&part=$part\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Volume $dvolume&nbsp;$dpart)</a></span>";
         }
-        echo "</li>\n";        
+		echo "<br /><span class=\"downloadspan\"><a href=\"downloadPdf.php?titleid=$titleid&amp;vtype=$vtype\" target=\"_blank\">Download pdf</a></span>";
+		echo "</li>\n";        
 	}
 }
 ?>

@@ -328,11 +328,13 @@ if($num_results > 0)
 					}
 				}
 			}
+			
+			echo "<br /><span class=\"downloadspan\"><a href=\"downloadPdf.php?titleid=$titleid&amp;vtype=$vtype\" target=\"_blank\">Download pdf</a></span>";
 
 			if($text != '')
 			{
-				echo "<br /><span class=\"issuespan\">result(s) found at page no(s). </span>";
-				echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$cur_page.djvu&zoom=page&find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
+				echo "<br /><span class=\"downloadspan\">result(s) found at page no(s). </span>";
+				echo "<span class=\"downloadspan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$cur_page.djvu&zoom=page&find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
 				$id = $titleid;
 			}
 		}
@@ -340,7 +342,7 @@ if($num_results > 0)
 		{
 			if($text != '')
 			{
-				echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$cur_page.djvu&zoom=page&find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
+				echo "<span class=\"downloadspan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$cur_page.djvu&zoom=page&find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
 				$id = $titleid;
 			}
 		}

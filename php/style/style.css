@@ -126,6 +126,20 @@ body{
 	color: #FFFFFF;
 	text-decoration:underline;
 }
+.downloadspan {
+	font-size: 0.9em;
+}
+.downloadspan a{
+/*
+	color: #FFE4B5;
+*/
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.downloadspan a:Hover{
+	color: #FFFFFF;
+	text-decoration:underline;
+}
 .issuespan_delim {
 	color: #3D3D3D;
     margin-left: 1px;
@@ -398,6 +412,7 @@ ul ul
 }
 .btml{
     border-bottom: 1px solid #333;
+    line-height: 1.75em;
 }
 input[type="submit"], input[type="reset"]{
     padding: 0 2em 0 2em;

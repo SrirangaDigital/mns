@@ -112,6 +112,7 @@ if($num_rows>0)
 			}
             echo preg_replace("/^\<span class\=\\\"issuespan_delim\\\"\>\|\<\/span\>/", "", $dauthor);
 		}
+		echo "<br /><span class=\"downloadspan\"><a href=\"../downloadPdf.php?titleid=$titleid&amp;vtype=$type\" target=\"_blank\">Download pdf</a></span>";
 		echo "</li>\n";
 	}
 }
