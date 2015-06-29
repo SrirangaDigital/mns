@@ -119,9 +119,10 @@ if($num_rows>0)
         $dvolume = preg_replace("/^0+/", "", $dvolume);
         $dvolume = preg_replace("/\-0+/", "-", $dvolume);
 
-		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$type\">$title</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"toc.php?vol=$volume&part=$part\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Volume $dvolume&nbsp;$dpart)</a></span><br />";
+		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$type\">$title</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"toc.php?vol=$volume&part=$part\">".$month_name{intval($month)}."&nbsp;$year&nbsp;&nbsp;(Volume $dvolume&nbsp;$dpart)</a></span>";
 		if($authid != 0)
 		{
+			echo "<br />";
 			$aut = preg_split('/;/',$authid);
 
 			foreach ($aut as $aid)

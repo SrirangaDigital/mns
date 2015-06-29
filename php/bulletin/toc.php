@@ -88,9 +88,10 @@ if($num_rows>0)
 		$page=$row['page'];
 		$authid=$row['authid'];
 
-		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$type\">$title</a></span><br />";
+		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$type\">$title</a></span>";
 		if($authid != 0)
 		{
+			echo "<br />";
 			$aut = preg_split('/;/',$authid);
 
             $dauthor = "";
