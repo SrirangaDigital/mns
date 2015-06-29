@@ -3,19 +3,26 @@
 	$index = $_GET['index'];
 	$volume = $_GET['volume'];
 	$vtype = $_GET['vtype'];
-	$part = $_GET['part'];
 	$imgurl = $_GET['imgurl'];
 	$reduce = round($_GET['level']);
 	$book = $_POST['book'];
 	$img = preg_split("/\./",$book[$index]);
 	$mode = $_GET['mode'];
+	$part = $_GET['part'];
 	
 	if($reduce == 1)
 	{
-		$imgurl = "../../../Volumes/".$vtype."/jpg/1/".$volume."/".$part;
+		$imgurl = "../../../Volumes/".$vtype."/jpg/1/".$volume;
 		$scale = 2100;
-		$djvurl = "../../../Volumes/".$vtype."/djvu/".$volume."/".$part;
-		$tifurl = "../../../Volumes/".$vtype."/tif/".$volume."/".$part;
+		$djvurl = "../../../Volumes/".$vtype."/djvu/".$volume;
+		$tifurl = "../../../Volumes/".$vtype."/tif/".$volume;
+		
+		if($vtype != 'special'){
+			
+			$imgurl .= "/" . $part;
+			$djvurl .= "/" . $part;
+			$tifurl .= "/" . $part;
+		}
 		
 		if(!file_exists($tifurl."/".$img[0].".tif"))
 		{
