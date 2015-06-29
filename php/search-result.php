@@ -295,7 +295,7 @@ if($num_results > 0)
 			}
             echo "<p class=\"".$type."_motif\"><span class=\"issuespan_delim big\">|</span>".$dtype."</p>";
             
-            echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$page.djvu&zoom=page\">$title</a></span>";
+            echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$vtype\">$title</a></span>";
             
             if($vtype == "blb")
             {
@@ -334,7 +334,7 @@ if($num_results > 0)
 			if($text != '')
 			{
 				echo "<br /><span class=\"downloadspan\">result(s) found at page no(s). </span>";
-				echo "<span class=\"downloadspan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$cur_page.djvu&zoom=page&find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
+				echo "<span class=\"downloadspan\"><a target=\"_blank\" href=\"bookReader.php?volume=$volume&amp;part=$part&amp;page=$cur_page&amp;vtype=$vtype&amp;text=$text\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
 				$id = $titleid;
 			}
 		}
@@ -342,7 +342,7 @@ if($num_results > 0)
 		{
 			if($text != '')
 			{
-				echo "<span class=\"downloadspan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$cur_page.djvu&zoom=page&find=$dtext/r\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
+				echo "<span class=\"downloadspan\"><a target=\"_blank\" href=\"bookReader.php?volume=$volume&amp;part=$part&amp;page=$cur_page&amp;vtype=$vtype&amp;text=$text\" target=\"_blank\">".intval($cur_page)."</a>&nbsp;&nbsp;&nbsp;</span>";
 				$id = $titleid;
 			}
 		}

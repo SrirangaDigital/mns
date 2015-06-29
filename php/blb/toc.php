@@ -88,7 +88,7 @@ if($num_rows>0)
 		$page=$row['page'];
 		$authid=$row['authid'];
 
-		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../../Volumes/$type/$volume/$part/index.djvu?djvuopts&page=$page.djvu&zoom=page\">$title</a></span><br />";
+		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$type\">$title</a></span><br />";
 		if($authid != 0)
 		{
 			$aut = preg_split('/;/',$authid);

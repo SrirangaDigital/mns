@@ -101,7 +101,7 @@ if($num_rows>0)
         
 		echo "<li class=\"btml\">";
         echo "<p class=\"".$type."_motif\"><span class=\"issuespan_delim big\">|</span>".$dtype."</p>";
-        echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$vtype/$volume/$part/index.djvu?djvuopts&page=$page.djvu&zoom=page\">$title</a></span>";
+        echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$vtype\">$title</a></span>";
         echo "&nbsp;&nbsp;|&nbsp;&nbsp;";
         if($vtype == "blb")
         {

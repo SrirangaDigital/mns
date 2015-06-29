@@ -119,7 +119,7 @@ if($num_rows>0)
         $dvolume = preg_replace("/^0+/", "", $dvolume);
         $dvolume = preg_replace("/\-0+/", "-", $dvolume);
 
-		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" target=\"_blank\" href=\"../../Volumes/$type/$volume/$part/index.djvu?djvuopts&page=$page.djvu&zoom=page\">$title</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"toc.php?vol=$volume&part=$part\">Volume $dvolume&nbsp;$dpart&nbsp;(" . $month_name{intval($month)} . " $year)</a></span><br />";
+		echo "<li class=\"btml\"><span class=\"titlespan\"><a target=\"_blank\" href=\"../bookReader.php?part=$part&amp;volume=$volume&amp;page=$page&amp;vtype=$type\">$title</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"toc.php?vol=$volume&part=$part\">Volume $dvolume&nbsp;$dpart&nbsp;(" . $month_name{intval($month)} . " $year)</a></span><br />";
 		if($authid != 0)
 		{
 			$aut = preg_split('/;/',$authid);
