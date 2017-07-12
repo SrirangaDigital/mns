@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	$url ="";
+	$url = "";
 	if(isset($_GET['volume']) && $_GET['volume'] != ''){$volume = $_GET['volume']; $url = "volume=".$volume;}
 	if(isset($_GET['part']) && $_GET['part'] != ''){$part = $_GET['part']; $url .= "&part=".$part;}
 	if(isset($_GET['page']) && $_GET['page'] != ''){$page = $_GET['page']; $url .= "&pagenum=".$page;}

@@ -47,15 +47,12 @@
 
 include("connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 $query = "select distinct volume,year from article_blb order by volume";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 $row_count = 10;
 $count = 0;
@@ -65,10 +62,10 @@ if($num_rows>0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 
-		$volume=$row['volume'];
-		$year=$row['year'];
+		$volume = $row['volume'];
+		$year = $row['year'];
 		
 		$count++;
 		if($count > $row_count)
@@ -85,16 +82,16 @@ if($num_rows>0)
         
 		echo "<li><span class=\"yearspan\">$year (Volume $dvolume)</span><br /><span class=\"issuespan\">";
 		$query1 = "select distinct part,month from article_blb where volume='$volume' order by part";
-		$result1 = mysql_query($query1);
+		$result1 = $mysqli->query($query1);
 
-		$num_rows1 = mysql_num_rows($result1);
+		$num_rows1 = $result1->num_rows;
 		
 		$flag = 0;
 		if($num_rows1>0)
 		{
 			for($i1=1;$i1<=$num_rows1;$i1++)
 			{
-				$row1=mysql_fetch_assoc($result1);
+				$row1=$result1->fetch_assoc();
 
 				$part=$row1['part'];
 				$month=$row1['month'];

@@ -45,17 +45,14 @@
 
 include("connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $volume=$_GET['vol'];
 $part=$_GET['part'];
 
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 $query = "select distinct year,month from article_blb where volume='$volume' and part='$part'";
-$result = mysql_query($query);
-$row=mysql_fetch_assoc($result);
+$result = $mysqli->query($query);
+$row= $result->fetch_assoc();
 $month=$row['month'];
 $year=$row['year'];
 
@@ -73,15 +70,15 @@ echo "<div class=\"archive_title\">Volume $dvolume&nbsp;$dpart&nbsp;(" . $month_
 echo "<div class=\"archive\">\n<ul>";
 
 $query = "select * from article_blb where volume='$volume' and part='$part' order by page, title";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows>0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 
 		$titleid=$row['titleid'];
 		$title=$row['title'];
@@ -98,13 +95,13 @@ if($num_rows>0)
 			foreach ($aut as $aid)
 			{
 				$query2 = "select * from author where authid=$aid";
-				$result2 = mysql_query($query2);
+				$result2 = $mysqli->query($query2);
 
-				$num_rows2 = mysql_num_rows($result2);
+				$num_rows2 = $result2->num_rows;
 
 				if($num_rows2)
 				{
-					$row2=mysql_fetch_assoc($result2);
+					$row2=$result2->fetch_assoc();
 
 					$authorname=$row2['authorname'];
 					

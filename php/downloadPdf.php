@@ -9,10 +9,7 @@
 		if(isset($_GET['titleid']) && $_GET['titleid'] != "")
 		{
 			include($vtype."/connect.php");
-			$db = mysql_connect('localhost',$user,$password) or die("Not connected to database");
-			$rs = mysql_select_db($database,$db) or die("No Database");
-			mysql_query("set names utf8");
-
+			
 			$vars = explode('_', $titleid);
 			$volume = $vars[1];
 			$part = $vars[2];
@@ -21,9 +18,9 @@
 			$pdfList = '';
 			
 			$query1 = "select cur_page from ocr_" . $vtype . " where volume = '$volume' and part = '$part' and cur_page between '$page' and '$page_end'";
-			$result1 = mysql_query($query1) or die(mysql_error());
+			$result1 = $mysqli->query($query1);
 			
-			while($row = mysql_fetch_assoc($result1))
+			while($row = $result1->fetch_assoc())
 			{
 				$pdfList .= '../Volumes/' . $vtype . '/pdf/' . $volume . '/' . $part . '/' . $row["cur_page"] . '.pdf ';
 			}

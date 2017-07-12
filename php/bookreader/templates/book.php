@@ -7,6 +7,7 @@
     <meta charset="UTF-8"/>
     <link rel="stylesheet" type="text/css" href="../static/BookReader/BookReader.css"/>
     <link rel="stylesheet" type="text/css" href="../static/BookReaderDemo.css"/>
+    <link rel="icon" type="image/png" href="../../images/favicon.png">
     <script type="text/javascript" src="../static/BookReader/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="../static/BookReader/jquery-ui-1.8.5.custom.min.js"></script>
     <script type="text/javascript " src="../static/BookReader/dragscrollable.js"></script>
@@ -17,7 +18,10 @@
     
     <?php
 		$volume = $_GET['volume'];
-		$part = $_GET['part'];
+		if(isset($_GET['part']) && $_GET['part'] != "")
+			$part = $_GET['part'];
+		else
+		$part = "";
 		$page = $_GET['pagenum'].".jpg";
 		$vtype = $_GET['vtype'];
 		if(isset($_GET['searchText']) && $_GET['searchText'] != "")

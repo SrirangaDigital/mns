@@ -41,9 +41,6 @@
 
 include("blb/connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $authid=$_GET['authid'];
 $authorname=$_GET['author'];
 
@@ -52,23 +49,23 @@ $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"
 echo "<div class=\"archive_title\"><span class=\"author\">$authorname</span> in Blackbuck and the Bulletin</div><div class=\"archive\"><ul>";
 
 $query = "(select * from article_blb where authid like '%$authid%') UNION ALL (select * from article_bulletin where authid like '%$authid%') order by volume, part, page";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows>0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 
-		$titleid=$row['titleid'];
-		$title=$row['title'];
-		$page=$row['page'];
-		$volume=$row['volume'];
-		$part=$row['part'];
-		$year=$row['year'];
-		$month=$row['month'];
+		$titleid = $row['titleid'];
+		$title = $row['title'];
+		$page = $row['page'];
+		$volume = $row['volume'];
+		$part = $row['part'];
+		$year = $row['year'];
+		$month = $row['month'];
         
         $dpart = $part;
         $dpart = preg_replace("/^0/", "", $dpart);

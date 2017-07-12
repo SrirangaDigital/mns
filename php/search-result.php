@@ -42,10 +42,6 @@
 <?php
 
 include("blb/connect.php");
-
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 $check=$_POST['check'];
@@ -223,9 +219,9 @@ elseif($text!='')
     $query = preg_replace("/^ UNION ALL /", "", $query);
 }
 
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_results = mysql_num_rows($result);
+$num_results = $result->num_rows;
 
 if ($num_results > 0)
 {
@@ -240,7 +236,7 @@ if($num_results > 0)
 {
 	for($i=1;$i<=$num_results;$i++)
 	{
-		$row1 = mysql_fetch_assoc($result);
+		$row1 = $result->fetch_assoc();
 
 		$title = $row1['title'];
 		$authorname = $row1['authorname'];
@@ -324,13 +320,13 @@ if($num_results > 0)
 				foreach ($aut as $aid)
 				{
 					$query2 = "select * from author where authid=$aid";
-					$result2 = mysql_query($query2);
+					$result2 = $mysqli->query($query2);
 
-					$num_rows2 = mysql_num_rows($result2);
+					$num_rows2 = $result2->num_rows;
 
 					if($num_rows2)
 					{
-						$row2=mysql_fetch_assoc($result2);
+						$row2=$result2->fetch_assoc();
 
 						$authorname=$row2['authorname'];
 						

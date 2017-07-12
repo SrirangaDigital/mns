@@ -46,16 +46,12 @@
 <?php
 
 include("connect.php");
-
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December","0"=>"Special");
 
 $query = "select distinct volume from article_bulletin order by volume";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 $row_count = 18;
 $count = 0;
@@ -65,15 +61,15 @@ if($num_rows>0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 
 		$volume=$row['volume'];
 		
 		$query_year = "select distinct year from article_bulletin where volume = '$volume' order by year";
-		$result_year = mysql_query($query_year);
+		$result_year = $mysqli->query($query_year);
 		
 		$year = '';
-		while($row_year=mysql_fetch_assoc($result_year))
+		while($row_year=$result_year->fetch_assoc())
 		{
 			$year = $year . '–' . $row_year['year'];
 		}
@@ -90,16 +86,16 @@ if($num_rows>0)
 		
 		echo "<li><span class=\"yearspan\">$year (Volume ".intval($volume).")</span><br /><span class=\"issuespan\">";
 		$query1 = "select distinct part,month from article_bulletin where volume='$volume' order by part";
-		$result1 = mysql_query($query1);
+		$result1 = $mysqli->query($query1);
 
-		$num_rows1 = mysql_num_rows($result1);
+		$num_rows1 = $result1->num_rows;
 		
 		$flag = 0;
 		if($num_rows1>0)
 		{
 			for($i1=1;$i1<=$num_rows1;$i1++)
 			{
-				$row1=mysql_fetch_assoc($result1);
+				$row1=$result1->fetch_assoc();
 
 				$part=$row1['part'];
 				$month=$row1['month'];
