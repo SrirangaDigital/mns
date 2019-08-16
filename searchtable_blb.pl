@@ -17,12 +17,12 @@ featid varchar(10),
 text varchar(5000),
 page varchar(5),
 page_end varchar(5),
-cur_page varchar(5),
+cur_page varchar(10),
 plates varchar(1000), 
 volume varchar(10),
 part varchar(10),
-year int(4),
-month varchar(2),
+year varchar(10),
+month varchar(6),
 titleid varchar(30)) ENGINE=MyISAM");
 $sth11->execute();
 $sth11->finish();

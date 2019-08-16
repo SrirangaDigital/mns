@@ -24,7 +24,7 @@ plates varchar(1000),
 volume varchar(10),
 part varchar(5),
 year varchar(10), 
-month varchar(2),
+month varchar(6),
 titleid varchar(30), primary key(titleid)) ENGINE=MyISAM");
 $sth11r->execute();
 $sth11r->finish();

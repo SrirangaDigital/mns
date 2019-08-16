@@ -21,8 +21,8 @@ cur_page varchar(5),
 plates varchar(1000), 
 volume varchar(10),
 part varchar(10),
-year int(4),
-month varchar(2),
+year int(10),
+month varchar(6),
 titleid varchar(30)) ENGINE=MyISAM");
 $sth11->execute();
 $sth11->finish();

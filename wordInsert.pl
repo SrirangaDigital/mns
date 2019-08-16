@@ -23,7 +23,7 @@ l int(10),
 b int(10),
 t int(10),
 r int(10),
-word varchar(50),
+word text,
 wordid int(10) NOT NULL AUTO_INCREMENT,
 PRIMARY KEY (wordid))AUTO_INCREMENT=1001  ENGINE=MyISAM character set utf8 collate utf8_general_ci");
 $sth11->execute();
@@ -95,7 +95,7 @@ sub insert_word()
 	
 	my($sth1,$sth);
 
-	$sth = $dbh->prepare("insert into word values('$type','$vol','$prt','$height','$width','$page','$left','$bottom','$right','$top','$word','')");
+	$sth = $dbh->prepare("insert into word values('$type','$vol','$prt','$height','$width','$page','$left','$bottom','$right','$top','$word',null)");
 	$sth->execute();
 	$sth->finish();
 }
